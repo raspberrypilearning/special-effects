@@ -27,7 +27,7 @@ Let's start by creating a sound to show that danger is approaching.
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](./print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/special-effects/print).
 
 
 --- collapse ---
