@@ -8,19 +8,19 @@ Click the play button below to hear how your special effects will sound:
 
 #### Suspense:
 <audio controls preload>
-  <source src="volunteer-resources/suspense.mp3" type="audio/mpeg">
+  <source src="resources/suspense.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 
 #### Stormy night:
 <audio controls preload>
-  <source src="volunteer-resources/stormy-night.mp3" type="audio/mpeg">
+  <source src="resources/stormy-night.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 
 #### Haunted bells:
 <audio controls preload>
-  <source src="volunteer-resources/haunted-bells.mp3" type="audio/mpeg">
+  <source src="resources/haunted-bells.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 
