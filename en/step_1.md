@@ -28,7 +28,7 @@ Your browser does not support the <code>audio</code> element.
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/special-effects/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
 
 --- collapse ---
