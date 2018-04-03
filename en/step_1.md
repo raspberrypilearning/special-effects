@@ -1,29 +1,30 @@
-## Suspense
-Let's start by creating a sound to show that danger is approaching.
+## Introduction
 
+In this project you will create some special effect sounds that can be used in a film or a computer game.
 
+<div id="audio-preview" class="pdf-hidden">
 
-+ To create the first special effect you should add the `:ambi_choir` sample to am empty buffer.
+Click the play button below to hear how your special effects will sound:
 
-    ![screenshot](images/effects-suspense-sample.png)
+#### Suspense:
+<audio controls preload>
+  <source src="resources/suspense.mp3" type="audio/mpeg">
+Your browser does not support the <code>audio</code> element.
+</audio>
 
-+ You can change the __rate__ at which a sample is played. A `rate` of `1` is the sample's normal speed, and using a `rate` of less than 1 will slow the sample down.
+#### Stormy night:
+<audio controls preload>
+  <source src="resources/stormy-night.mp3" type="audio/mpeg">
+Your browser does not support the <code>audio</code> element.
+</audio>
 
-    ![screenshot](images/effects-suspense-rate-low.png)
+#### Haunted bells:
+<audio controls preload>
+  <source src="resources/haunted-bells.mp3" type="audio/mpeg">
+Your browser does not support the <code>audio</code> element.
+</audio>
 
-+ Press 'Run' to hear your sample played slowly. How does the sample sound?
-
-+ A `rate` higher than 1 speeds the sample up.
-
-    ![screenshot](images/effects-suspense-rate-high.png)
-
-+ Test your sample again. How does it sound now?
-
-+ You can repeat the sample a few times by putting it in a loop. You'll also need to add a `sleep` after playing the sample.
-
-    ![screenshot](images/effects-suspense-repeat.png)
-
-
+</div>
 
 ### Additional information for club leaders
 
