@@ -1,25 +1,25 @@
-## Haunted bells
+## भुतहा घंटियाँ
 
-+ Choose an empty buffer to create the next special effect.
++ अगला विशेष प्रभाव बनाने के लिए एक खाली बफर चुनें।
 
-+ Start by adding the `:perc_bell` sample.
++ `:perc_bell` नमूने को जोड़कर आरंभ करें।
     
-    ![screenshot](images/effects-bells-sample.png)
+    ![स्क्रीनशॉट](images/effects-bells-sample.png)
 
-+ Press 'Run' to play the sample and see how it sounds.
++ नमूने को चलाने के लिए 'चलाएँ' दबाएँ और देखें कि इसकी आवाज़ कैसी लगती है।
 
-+ Change the `rate` of the sample to see how it sounds played at different speeds.
++ यह देखने के लिए नमूने के `rate` को बदलें कि विभिन्न गतियों पर चलाए जाने पर इसमें से कैसी ध्वनियाँ निकलती हैं।
     
-    ![screenshot](images/effects-bells-rate-high.png)
+    ![स्क्रीनशॉट](images/effects-bells-rate-high.png)
 
-+ Change the `rate` to `-1`. What does this do to the sample?
++ इसके `rate` को `-1` में बदलें। इससे नमूने पर क्या प्रभाव पड़ता है?
     
-    ![screenshot](images/effects-bells-rate-negative.png)
+    ![स्क्रीनशॉट](images/effects-bells-rate-negative.png)
 
-+ You can use `rrand` to play the sample at a random rate.
++ नमूने को यादृच्छिक गति पर चलाने के लिए आप `rrand` का उपयोग कर सकते हैं।
     
-    ![screenshot](images/effects-bells-rate-random.png)
+    ![स्क्रीनशॉट](images/effects-bells-rate-random.png)
 
-+ Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
++ नमूने को एक लूप में जोड़ें जो **forever** दोहराता है। नमूने को चलाने के बाद आप यादृच्छिक समय के लिए `sleep` भी कर सकते हैं।
     
-    ![screenshot](images/effects-bells-repeat-random.png)
+    ![स्क्रीनशॉट](images/effects-bells-repeat-random.png)
