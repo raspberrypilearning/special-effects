@@ -1,0 +1,29 @@
+---
+hero_image: images / special-effects.png
+theme: Orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, Design-0, Programmierung-1, Phys-Comp-0, Manufacture-0, Community-0
+title: Spezialeffekte
+description: Erstellen Sie Spezialeffekte für einen Film oder ein Computerspiel.
+original_url: https://codeclubprojects.org/de-DE/sonic-pi/special-effects
+interests: Musik-
+technologies: ''
+site_areas: Projekte
+hardware: ''
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Einführung
+  - 
+    title: Spannung
+  - 
+    title: Stürmische Nacht
+  - 
+    title: Geisterglocken
+  - 
+    title: 'Herausforderung: Erstellen Sie Ihre eigenen Spezialeffekte'
