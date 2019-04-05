@@ -9,16 +9,16 @@ curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Special Effects
 description: Create special effects for a film or computer game.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/special-effects
-interests: music
+interests: muzyka
 technologies: ''
-site_areas: projects
+site_areas: projekty
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Wprowadzenie
   - 
     title: Suspense
   - 
