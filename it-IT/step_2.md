@@ -14,10 +14,10 @@ Let's start by creating a sound to show that danger is approaching.
 
 + A `rate` higher than 1 speeds the sample up.
     
-    ![screenshot](images/effects-suspense-rate-high.png)
+    ![schermata](images/effects-suspense-rate-high.png)
 
 + Test your sample again. How does it sound now?
 
 + You can repeat the sample a few times by putting it in a loop. You'll also need to add a `sleep` after playing the sample.
     
-    ![screenshot](images/effects-suspense-repeat.png)
+    ![schermata](images/effects-suspense-repeat.png)
