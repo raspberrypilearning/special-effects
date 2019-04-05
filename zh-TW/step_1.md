@@ -1,4 +1,4 @@
-## Introduction
+## 介紹
 
 In this project you will create some special effect sounds that can be used in a film or a computer game.
 
@@ -6,15 +6,15 @@ In this project you will create some special effect sounds that can be used in a
   Click the play button below to hear how your special effects will sound: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Stormy night: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Haunted bells: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### Code Club 工作人員延伸閱讀
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
-## \--- collapse \---
+## - - 自動隱藏選單 - -
 
 ## title: Club leader notes
 
-## Introduction:
+## 介紹:
 
 In this project, children will learn how to manipulate samples to create spacial effects.
 
@@ -41,7 +41,7 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [結合程式設計結構來解決問題。](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## Challenges
 
@@ -51,9 +51,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
-\--- /collapse \---
+- - 自動隱藏選單 - -
 
-## \--- collapse \---
+## - - 自動隱藏選單 - -
 
 ## title: Project materials
 
@@ -66,4 +66,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Downloadable completed Sonic Pi 'Haunted bells' special effect](resources/haunted-bells.txt)
 * [Downloadable completed 'Haunted bells' mp3 file](resources/haunted-bells.mp3)
 
-\--- /collapse \---
+- - 自動隱藏選單 - -
