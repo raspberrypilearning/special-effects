@@ -4,7 +4,7 @@
 
 + Start by adding the `:perc_bell` sample.
     
-    ![screenshot](images/effects-bells-sample.png)
+    ![zrzut ekranu](images/effects-bells-sample.png)
 
 + Press 'Run' to play the sample and see how it sounds.
 
@@ -18,8 +18,8 @@
 
 + You can use `rrand` to play the sample at a random rate.
     
-    ![screenshot](images/effects-bells-rate-random.png)
+    ![zrzut ekranu](images/effects-bells-rate-random.png)
 
 + Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
     
-    ![screenshot](images/effects-bells-repeat-random.png)
+    ![zrzut ekranu](images/effects-bells-repeat-random.png)
