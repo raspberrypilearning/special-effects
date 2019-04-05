@@ -1,4 +1,4 @@
-## Introduction
+## 들어가며
 
 In this project you will create some special effect sounds that can be used in a film or a computer game.
 
@@ -6,19 +6,19 @@ In this project you will create some special effect sounds that can be used in a
   Click the play button below to hear how your special effects will sound: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Stormy night: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Haunted bells: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### 교육자들을 위한 추가 정보
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
+이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/en/projects/special-effects/print)를 사용하십시오.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## 제목: 교육자 노트
 
-## Introduction:
+## 소개
 
 In this project, children will learn how to manipulate samples to create spacial effects.
 
-## Resources
+## 자료
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -33,21 +33,21 @@ You can find a completed version of this project by clicking the 'Project Materi
 * haunted-bells.txt
 * haunted-bells.mp3
 
-## Learning Objectives
+## 학습 목표
 
 * Sonic Pi samples
 * Sample `rate` and `amp`
 * Using random values
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 다음 과정에 대한 내용을 다룹니다:
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [프로그래밍 구조를 결합하여 문제 해결하기](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## 도전과제
 
 * "Create your own special effects" - using samples to create special effects.
 
-## Frequently Asked Questions
+## 자주 물어보는 질문
 
 * To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
@@ -55,9 +55,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: 프로젝트 자료
 
-## Club leader resources
+## 교육자를 위한 자료
 
 * [Downloadable completed Sonic Pi 'Suspense' special effecte](resources/suspense.txt)
 * [Downloadable completed 'Suspense' mp3 file](resources/suspense.mp3)
