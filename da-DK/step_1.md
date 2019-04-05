@@ -1,4 +1,4 @@
-## Introduction
+## Introduktion
 
 In this project you will create some special effect sounds that can be used in a film or a computer game.
 
@@ -6,19 +6,19 @@ In this project you will create some special effect sounds that can be used in a
   Click the play button below to hear how your special effects will sound: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Stormy night: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Haunted bells: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### Yderligere oplysninger for klubledere
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
+Hvis du har brug for at udskrive dette projekt skal du bruge den [Printventlige version](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Klubledernotater
 
-## Introduction:
+## Tillykke Med Fødselsdagen:
 
 In this project, children will learn how to manipulate samples to create spacial effects.
 
-## Resources
+## Resurser
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -33,17 +33,17 @@ You can find a completed version of this project by clicking the 'Project Materi
 * haunted-bells.txt
 * haunted-bells.mp3
 
-## Learning Objectives
+## Læringsmål
 
 * Sonic Pi samples
 * Sample `rate` and `amp`
 * Using random values
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dette projekt dækker elementer fra følgende områder i [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Kombiner programmeringskonstruktioner for at løse et problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Udfordringer
 
 * "Create your own special effects" - using samples to create special effects.
 
@@ -55,9 +55,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projektmaterialer
 
-## Club leader resources
+## Klubleder resurser
 
 * [Downloadable completed Sonic Pi 'Suspense' special effecte](resources/suspense.txt)
 * [Downloadable completed 'Suspense' mp3 file](resources/suspense.mp3)
