@@ -12,7 +12,7 @@
 
 ## \--- collapse \---
 
-## title: क्लब लीडर की टिप्पणियाँ
+## title: क्लब नेता नोट्स
 
 ## परिचय:
 
@@ -33,7 +33,7 @@
 * haunted-bells.txt
 * haunted-bells.mp3
 
-## सीखने के उद्देश्य
+## अध्ययन के उद्देश्य
 
 * Sonic Pi नमूने
 * नमूना `rate` और `amp`
@@ -41,7 +41,7 @@
 
 इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
-* [किसी समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़ें।](https://www.raspberrypi.org/curriculum/programming/builder)
+* [समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़े।](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## चुनौतियाँ
 
