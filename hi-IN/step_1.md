@@ -8,10 +8,10 @@
   #### रहस्य: 
   <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> 
   
-  ####तूफानी रात: 
+  #### तूफानी रात: 
   <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> 
   
-  ####भुतहा घंटियाँ: 
+  #### भुतहा घंटियाँ: 
   <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
 </div>
 
