@@ -3,7 +3,13 @@
 इस प्रोजेक्ट में आप कुछ विशेष प्रभाव ध्वनियाँ बनाएँगे जिनका उपयोग किसी फिल्म या कंप्यूटर गेम में किया जा सकता है।
 
 <div id="audio-preview" class="pdf-hidden">
-  यह सुनने के लिए नीचे दिए गए प्ले बटन पर क्लिक करें कि आपके विशेष प्रभाव कैसे दिखेंगे: #### रहस्य: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> #### तूफानी रात: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> #### भुतहा घंटियाँ: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+  यह सुनने के लिए नीचे दिए गए प्ले बटन पर क्लिक करें कि आपके विशेष प्रभाव कैसे दिखेंगे: 
+  
+  #### रहस्य: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> 
+  
+  #### तूफानी रात: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> 
+  
+  #### भुतहा घंटियाँ: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
 </div>
 
 ### क्लब लीडरों के लिए अतिरिक्त जानकारी
