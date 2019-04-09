@@ -7,22 +7,22 @@
   
 #### रहस्य: 
 <audio controls preload> 
- <source src="resources/suspense.mp3" type="audio/mpeg"> 
+  <source src="resources/suspense.mp3" type="audio/mpeg"> 
 आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
 </audio> 
   
 #### तूफानी रात: 
 <audio controls preload> 
-  <source src="resources/stormy-night.mp3" type="audio/mpeg">
+ <source src="resources/stormy-night.mp3" type="audio/mpeg"> 
 आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
 </audio> 
   
 #### भुतहा घंटियाँ: 
 <audio controls preload> 
   <source src="resources/haunted-bells.mp3" type="audio/mpeg"> 
-आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है।
+आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
 </audio>
-
+  
 </div>
 
 ### क्लब लीडरों के लिए अतिरिक्त जानकारी
@@ -31,7 +31,7 @@
 
 --- collapse ---
 ---
-title: क्लब लीडर की टिप्पणियाँ
+title: क्लब नेता नोट्स
 ---
 
 ## परिचय:
@@ -53,7 +53,7 @@ title: क्लब लीडर की टिप्पणियाँ
 * haunted-bells.txt
 * haunted-bells.mp3
 
-## सीखने के उद्देश्य
+## अध्ययन के उद्देश्य
 
 * Sonic Pi नमूने
 * नमूना `rate` और `amp`
@@ -61,7 +61,7 @@ title: क्लब लीडर की टिप्पणियाँ
 
 इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
-* [किसी समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़ें।](https://www.raspberrypi.org/curriculum/programming/builder)
+* [समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़े।](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## चुनौतियाँ
 
