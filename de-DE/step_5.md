@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Herausforderung: Erstellen Sie Ihre eigenen Spezialeffekte
+## Herausforderung: Erstelle deine eigenen Spezialeffekte
 
-Können Sie Beispiele verwenden, um Ihre eigenen Spezialeffekte zu erstellen? Hier einige Beispiele, um Ihnen zu helfen:
+Kannst du Samples verwenden, um deine eigenen Spezialeffekte zu erstellen? Hier sind einige Beispiele, um dir zu helfen:
 
 ![screenshot](images/effects-bounce.png)
 
 ![screenshot](images/effects-alarm.png)
 
-Denken Sie daran , dass Sie **Datensatz** Ihre Effekte und sie in einem Film oder Spiel , das Sie entwickeln!
+Denke daran, dass Du deine Effekte auch **aufnehmen** kannst (über die record-Schaltfläche) und sie in einem Film oder einem Spiel, das Du entwickelst, verwenden kannst!
 
 \--- /challenge \---
