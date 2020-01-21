@@ -1,25 +1,25 @@
-## Geisterglocken
+## Verfluchte Glocken
 
-+ Wählen Sie einen leeren Puffer, um den nächsten Spezialeffekt zu erstellen.
++ Wähle einen leeren Puffer, um den nächsten Spezialeffekt zu erstellen.
 
-+ Beginnen Sie mit dem Hinzufügen des Beispiels `: perc_bell`.
++ Füge zuerst das `:perc_bell` Sample hinzu.
     
     ![screenshot](images/effects-bells-sample.png)
 
-+ Drücken Sie 'Run', um das Sample abzuspielen und zu sehen, wie es klingt.
++ Drücke 'Run', um das Sample abzuspielen und zu sehen, wie es klingt.
 
-+ Ändern Sie die `Rate` des Samples, um zu sehen, wie es mit verschiedenen Geschwindigkeiten abgespielt wird.
++ Ändere die `rate` des Samples, um zu sehen, wie es sich anhört, wenn es mit verschiedenen Geschwindigkeiten abgespielt wird.
     
     ![screenshot](images/effects-bells-rate-high.png)
 
-+ Ändern Sie die `Rate` in `-1`. Was macht das mit der Probe?
++ Ändere die `rate` zu `-1`. Was macht das mit dem Sample?
     
     ![screenshot](images/effects-bells-rate-negative.png)
 
-+ Sie können `Rrand` , um das Sample mit einer Zufallsrate abzuspielen.
++ Du kannst `rrand` verwenden, um das Sample mit einer Zufallsrate abzuspielen.
     
-    ![Screenshot](images/effects-bells-rate-random.png)
+    ![screenshot](images/effects-bells-rate-random.png)
 
-+ Fügen Sie das Sample zu einer Schleife hinzu, die **für immer wiederholt.**. Sie können auch `Schlaf` für eine zufällige Zeit , nachdem die Probe gespielt werden.
++ Füge das Sample zu einer Schleife hinzu, die sich **für immer wiederholt.**. Du kannst das Program, nach dem Abspielen des Samples, für eine zufällige Zeit schlafen lassen, indem du den `sleep`-Befehl verwendest.
     
     ![Screenshot](images/effects-bells-repeat-random.png)
