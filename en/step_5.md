@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Create your own special effects
 Can you use samples to create your own special effects? Here are some examples to help you:
 
