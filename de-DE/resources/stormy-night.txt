@@ -1,4 +1,4 @@
-#stormy night
+#stürmische Nacht
 sample :ambi_swoosh, rate: 0.3
 4.times do
   sample :misc_crow, amp: 0.2
