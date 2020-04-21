@@ -1,23 +1,23 @@
-## दुविधा
+## Suspense
 
-आइए हम यह दिखाने के लिए एक ध्वनि बनाकर शुरू करें कि ख़तरा नज़दीक है।
+Let's start by creating a sound to show that danger is approaching.
 
-+ पहला विशेष प्रभाव बनाने के लिए आपको एक खाली बफ़र में `:ambi_choir` नमूना जोड़ना चाहिए।
++ To create the first special effect you should add the `:ambi_choir` sample to am empty buffer.
     
-    ![स्क्रीनशॉट](images/effects-suspense-sample.png)
+    ![screenshot](images/effects-suspense-sample.png)
 
-+ नमूना जिस **गति** से चलाया जाता है आप उसे बदल सकते हैं। नमूने के लिए सामान्य `rate` `1` है, और 1 से कम `rate` का उपयोग करने पर नमूने की गति कम हो जाएगी।
++ You can change the **rate** at which a sample is played. A `rate` of `1` is the sample's normal speed, and using a `rate` of less than 1 will slow the sample down.
     
-    ![स्क्रीनशॉट](images/effects-suspense-rate-low.png)
+    ![screenshot](images/effects-suspense-rate-low.png)
 
-+ अपने नमूने को धीमी आवाज़ में चलता हुआ सुनने के लिए 'Run' (चलाएँ) दबाएँ। नमूने की आवाज़ कैसी लगती है?
++ Press 'Run' to hear your sample played slowly. How does the sample sound?
 
-+ `rate` 1 से अधिक होने पर नमूने की गति बढ़ जाती है।
++ A `rate` higher than 1 speeds the sample up.
     
-    ![स्क्रीनशॉट](images/effects-suspense-rate-high.png)
+    ![screenshot](images/effects-suspense-rate-high.png)
 
-+ अपने नमूने का फिर से परीक्षण करें। अब इसकी आवाज़ कैसी लगती है?
++ Test your sample again. How does it sound now?
 
-+ आप नमूने को लूप में डालकर कुछ बार दोहरा सकते हैं। नमूने को चलाने के बाद आपको उसमें एक `sleep` भी जोड़ना होगा।
++ You can repeat the sample a few times by putting it in a loop. You'll also need to add a `sleep` after playing the sample.
     
-    ![स्क्रीनशॉट](images/effects-suspense-repeat.png)
+    ![screenshot](images/effects-suspense-repeat.png)
