@@ -1,4 +1,4 @@
-## Inledning
+## Introduction
 
 In this project you will create some special effect sounds that can be used in a film or a computer game.
 
@@ -14,11 +14,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Introduktion:
+## Introduction:
 
 In this project, children will learn how to manipulate samples to create spacial effects.
 
-## Hjälpmedel
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
