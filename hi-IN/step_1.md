@@ -1,30 +1,30 @@
-## परिचय
+## Introduction
 
-इस प्रोजेक्ट में आप कुछ विशेष प्रभाव ध्वनियाँ बनाएँगे जिनका उपयोग किसी फिल्म या कंप्यूटर गेम में किया जा सकता है।
+In this project you will create some special effect sounds that can be used in a film or a computer game.
 
 <div id="audio-preview" class="pdf-hidden">
-  यह सुनने के लिए नीचे दिए गए प्ले बटन पर क्लिक करें कि आपके विशेष प्रभाव कैसे दिखेंगे: #### रहस्य: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> #### तूफानी रात: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> #### भुतहा घंटियाँ: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+  Click the play button below to hear how your special effects will sound: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Stormy night: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Haunted bells: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### क्लब लीडरों के लिए अतिरिक्त जानकारी
+### Additional information for club leaders
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/special-effects/print) का उपयोग करें।
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
 ## \--- collapse \---
 
-## title: क्लब नेता नोट्स
+## title: Club leader notes
 
-## परिचय:
+## Introduction:
 
-इस प्रोजेक्ट में, बच्चे सीखेंगे कि विशेष प्रभाव बनाने के लिए नमूनों में हेरफेर कैसे करें।
+In this project, children will learn how to manipulate samples to create spacial effects.
 
-## संसाधन
+## Resources
 
-इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक में निम्नलिखित संसाधन सम्मिलित हैं:
+The 'Project Materials' link for this project contains the following resources:
 
-##### क्लब लीडर संसाधन
+##### Club leader Resources
 
-आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके इस प्रोजेक्ट का पूर्ण संस्करण पा सकते हैं, जिसमें निम्न शामिल हैं:
+You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * suspense.txt
 * suspense.mp3
@@ -33,37 +33,37 @@
 * haunted-bells.txt
 * haunted-bells.mp3
 
-## अध्ययन के उद्देश्य
+## Learning Objectives
 
-* Sonic Pi नमूने
-* नमूना `rate` और `amp`
-* यादृच्छिक मानों का उपयोग करना
+* Sonic Pi samples
+* Sample `rate` and `amp`
+* Using random values
 
-इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़े।](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## चुनौतियाँ
+## Challenges
 
-* "अपने स्वयं के विशेष प्रभाव बनाना" - विशेष प्रभाव बनाने के लिए नमूनों का उपयोग करना।
+* "Create your own special effects" - using samples to create special effects.
 
-## अक्सर पूछे जाने वाले सवाल
+## Frequently Asked Questions
 
-* Sonic Pi में उपलब्ध नमूनों को खोजने के लिए, शिक्षार्थी [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) पर जा सकते हैं। वैकल्पिक रूप से, वे केवल `sample [space]` टाइप कर सकते हैं और दिखाई देने वाली सूची में से चुन सकते हैं।
+* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: प्रोजेक्ट सामग्री
+## title: Project materials
 
-## क्लब लीडर संसाधन
+## Club leader resources
 
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'Suspense' special effecte](resources/suspense.txt)
-* [डाउनलोड करने योग्य पूर्ण की गई 'Suspense' mp3 फ़ाइल](resources/suspense.mp3)
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'Stormy night' special effect](resources/stormy-night.txt)
-* [डाउनलोड करने योग्य पूर्ण की गई 'Stormy night' mp3 फ़ाइल](resources/stormy-night.mp3)
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'Haunted bells' special effect](resources/haunted-bells.txt)
-* [डाउनलोड करने योग्य पूर्ण की गई 'Haunted bells' mp3 file](resources/haunted-bells.mp3)
+* [Downloadable completed Sonic Pi 'Suspense' special effecte](resources/suspense.txt)
+* [Downloadable completed 'Suspense' mp3 file](resources/suspense.mp3)
+* [Downloadable completed Sonic Pi 'Stormy night' special effect](resources/stormy-night.txt)
+* [Downloadable completed 'Stormy night' mp3 file](resources/stormy-night.mp3)
+* [Downloadable completed Sonic Pi 'Haunted bells' special effect](resources/haunted-bells.txt)
+* [Downloadable completed 'Haunted bells' mp3 file](resources/haunted-bells.mp3)
 
 \--- /collapse \---
