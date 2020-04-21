@@ -8,7 +8,7 @@ Let's start by creating a sound to show that danger is approaching.
 
 + You can change the **rate** at which a sample is played. A `rate` of `1` is the sample's normal speed, and using a `rate` of less than 1 will slow the sample down.
     
-    ![скриншот](images/effects-suspense-rate-low.png)
+    ![screenshot](images/effects-suspense-rate-low.png)
 
 + Press 'Run' to hear your sample played slowly. How does the sample sound?
 
@@ -20,4 +20,4 @@ Let's start by creating a sound to show that danger is approaching.
 
 + You can repeat the sample a few times by putting it in a loop. You'll also need to add a `sleep` after playing the sample.
     
-    ![скриншот](images/effects-suspense-repeat.png)
+    ![screenshot](images/effects-suspense-repeat.png)
