@@ -1,30 +1,30 @@
-## Inleiding
+## Introduction
 
 In this project you will create some special effect sounds that can be used in a film or a computer game.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your special effects will sound: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio> #### Stormy night: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio> #### Haunted bells: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+  Click the play button below to hear how your special effects will sound: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Stormy night: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Haunted bells: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Aanvullende informatie voor clubleiders
+### Additional information for club leaders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/special-effects/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
 ## \--- collapse \---
 
-## title: Opmerkingen voor docenten
+## title: Club leader notes
 
-## Inleiding:
+## Introduction:
 
 In this project, children will learn how to manipulate samples to create spacial effects.
 
-## Bronnen
+## Resources
 
-De link 'Projectmaterialen' voor dit project bevat de volgende bronnen:
+The 'Project Materials' link for this project contains the following resources:
 
-##### Clubleider bronnen
+##### Club leader Resources
 
-Je kunt een voltooide versie van dit project vinden door te klikken op de link 'Projectmaterialen' voor dit project, dat het volgende bevat:
+You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * suspense.txt
 * suspense.mp3
@@ -33,31 +33,31 @@ Je kunt een voltooide versie van dit project vinden door te klikken op de link '
 * haunted-bells.txt
 * haunted-bells.mp3
 
-## Leerdoelen
+## Learning Objectives
 
 * Sonic Pi samples
 * Sample `rate` and `amp`
 * Using random values
 
-Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combineer programmeerconstructies om een ​​probleem op te lossen.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Uitdagingen
+## Challenges
 
 * "Create your own special effects" - using samples to create special effects.
 
-## Veelgestelde vragen (faq)
+## Frequently Asked Questions
 
-* Om voorbeelden te vinden die beschikbaar zijn in Sonic Pi, kunnen leerlingen naar [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Als alternatief kunnen ze gewoon `sample [space]` typen en kiezen uit de lijst die verschijnt.
+* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Projectmaterialen
+## title: Project materials
 
-## Club leider bronnen
+## Club leader resources
 
 * [Downloadable completed Sonic Pi 'Suspense' special effecte](resources/suspense.txt)
 * [Downloadable completed 'Suspense' mp3 file](resources/suspense.mp3)
