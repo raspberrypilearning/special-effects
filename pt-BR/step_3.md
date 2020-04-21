@@ -4,17 +4,17 @@
 
 + To begin, add the `:ambi_swoosh` sample.
     
-    ![captura de tela](images/effects-storm-sample.png)
+    ![screenshot](images/effects-storm-sample.png)
 
 + Press 'Run' to test your sample and see how it sounds.
 
 + If you slow the sample down, you'll hear that it sounds like a storm.
     
-    ![captura de tela](images/effects-storm-rate.png)
+    ![screenshot](images/effects-storm-rate.png)
 
 + You could also add a `:misc_crow` sample, that is played at the same time.
     
-    ![captura](images/effects-storm-crow.png)
+    ![screenshot](images/effects-storm-crow.png)
 
 + Put the `:misc_crow` sample in a loop, so it is played 4 times with a 1 beat `sleep` each time it is played.
     
