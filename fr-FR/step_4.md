@@ -10,7 +10,7 @@
 
 + Change the `rate` of the sample to see how it sounds played at different speeds.
     
-    ![capture d'écran](images/effects-bells-rate-high.png)
+    ![screenshot](images/effects-bells-rate-high.png)
 
 + Change the `rate` to `-1`. What does this do to the sample?
     
@@ -18,8 +18,8 @@
 
 + You can use `rrand` to play the sample at a random rate.
     
-    ![capture d'écran](images/effects-bells-rate-random.png)
+    ![screenshot](images/effects-bells-rate-random.png)
 
 + Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
     
-    ![capture d'écran](images/effects-bells-repeat-random.png)
+    ![screenshot](images/effects-bells-repeat-random.png)
