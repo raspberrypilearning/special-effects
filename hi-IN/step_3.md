@@ -1,33 +1,33 @@
-## तूफानी रात
+## Stormy night
 
-+ अगला विशेष प्रभाव बनाने के लिए एक खाली बफर चुनें।
++ Choose an empty buffer to create the next special effect.
 
-+ शुरू करने के लिए, `:ambi_swoosh` नमूना जोड़ें।
++ To begin, add the `:ambi_swoosh` sample.
     
-    ![स्क्रीनशॉट](images/effects-storm-sample.png)
+    ![screenshot](images/effects-storm-sample.png)
 
-+ अपने नमूने का परीक्षण करने के लिए 'चलाएँ' दबाएँ और देखें कि इसकी आवाज़ कैसी लगती है।
++ Press 'Run' to test your sample and see how it sounds.
 
-+ यदि आप नमूने को धीमा कर देते हैं, तो आपको तूफान जैसी आवाज़ सुनाई देगी।
++ If you slow the sample down, you'll hear that it sounds like a storm.
     
-    ![स्क्रीनशॉट](images/effects-storm-rate.png)
+    ![screenshot](images/effects-storm-rate.png)
 
-+ आप `:misc_crow` नमूना भी जोड़ सकते हैं, जो उसी समय चलता है।
++ You could also add a `:misc_crow` sample, that is played at the same time.
     
-    ![स्क्रीनशॉट](images/effects-storm-crow.png)
+    ![screenshot](images/effects-storm-crow.png)
 
-+ `:misc_crow` नमूने को एक लूप में रखें, ताकि प्रत्येक बार चलाए जाने पर यह 1 बीट `sleep` के साथ 4 बार चलता है।
++ Put the `:misc_crow` sample in a loop, so it is played 4 times with a 1 beat `sleep` each time it is played.
     
-    ![स्क्रीनशॉट](images/effects-storm-crow-repeat.png)
+    ![screenshot](images/effects-storm-crow-repeat.png)
 
-+ हर बार 1 बीट के लिए विश्राम के बजाय, आप `rrand` का उपयोग कर सकते हैं जो आपको कोष्ठक में 2 मानों के बीच एक यादृच्छिक संख्या देगा।
++ Instead of sleeping for 1 beat each time, you can use `rrand` to which will give you a random number between the 2 values in brackets.
     
-    ![स्क्रीनशॉट](images/effects-storm-crow-rand.png)
+    ![screenshot](images/effects-storm-crow-rand.png)
 
-+ **amplitude** (आयाम) ध्वनि की तरंग ध्वनि का आकार है। ध्वनि तरंग के आयाम को बदलने से इसका **वॉल्यूम** बदल जाता है।
++ The **amplitude** of a sound is the size of the sound wave. Changing the amplitude of a sound wave changes its **volume**.
     
-    ![आयाम](images/effects-amplitude.png)
+    ![amplitude](images/effects-amplitude.png)
     
-    आप किसी नमूने को किसी अलग वॉल्यूम पर चलाने के लिए `amp` का उपयोग कर सकते हैं। 1 से कम संख्या होने पर नमूना बहुत धीमी आवाज़ में चलेगा।
+    You can use `amp` to make a sample play at a different volume. A number less than 1 will play a sample quieter.
     
-    ![स्क्रीनशॉट](images/effects-storm-crow-amp.png)
+    ![screenshot](images/effects-storm-crow-amp.png)
