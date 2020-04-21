@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## चुनौती: अपने खुद के विशेष प्रभाव तैयार करना
+## Challenge: Create your own special effects
 
-क्या आप अपने खुद के विशेष प्रभाव बनाने के लिए नमूनों का उपयोग कर सकते हैं? यहाँ आपकी मदद के लिए कुछ उदाहरण दिए गए हैं:
+Can you use samples to create your own special effects? Here are some examples to help you:
 
-![स्क्रीनशॉट](images/effects-bounce.png)
+![screenshot](images/effects-bounce.png)
 
-![स्क्रीनशॉट](images/effects-alarm.png)
+![screenshot](images/effects-alarm.png)
 
-याद रखें कि आप अपने प्रभावों को **रिकॉर्ड** कर सकते हैं और जिसे आप जो फिल्म या गेम तैयार कर रहे हैं उसमें उनका उपयोग कर सकते हैं!
+Remember that you can **record** your effects and use them in a film or game that you're developing!
 
 \--- /challenge \---
