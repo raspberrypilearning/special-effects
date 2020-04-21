@@ -4,7 +4,7 @@
 
 Can you use samples to create your own special effects? Here are some examples to help you:
 
-![screenshot (στιγμιότυπο οθόνης)](images/effects-bounce.png)
+![screenshot](images/effects-bounce.png)
 
 ![screenshot](images/effects-alarm.png)
 
