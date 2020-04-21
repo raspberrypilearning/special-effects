@@ -1,29 +1,29 @@
 ---
 hero_image: images/special-effects.png
-theme: नारंगी
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: विशेष प्रभाव
-description: किसी फिल्म या कंप्यूटर गेम के लिए विशेष प्रभाव बनाएँ।
+title: Special Effects
+description: Create special effects for a film or computer game.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/special-effects
-interests: संगीत
+interests: music
 technologies: ''
-site_areas: प्रोजेक्ट
+site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: भूमिका
+    title: Introduction
   - 
-    title: दुविधा
+    title: Suspense
   - 
-    title: तूफानी रात
+    title: Stormy night
   - 
-    title: भुतहा घंटियाँ
+    title: Haunted bells
   - 
-    title: 'चुनौती: अपने खुद के विशेष प्रभाव तैयार करना'
+    title: 'Challenge: Create your own special effects'
