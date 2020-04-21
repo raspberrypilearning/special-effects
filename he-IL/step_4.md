@@ -4,22 +4,22 @@
 
 + Start by adding the `:perc_bell` sample.
     
-    ![צילום מסך](images/effects-bells-sample.png)
+    ![screenshot](images/effects-bells-sample.png)
 
 + Press 'Run' to play the sample and see how it sounds.
 
 + Change the `rate` of the sample to see how it sounds played at different speeds.
     
-    ![צילום מסך](images/effects-bells-rate-high.png)
+    ![screenshot](images/effects-bells-rate-high.png)
 
 + Change the `rate` to `-1`. What does this do to the sample?
     
-    ![צילום מסך](images/effects-bells-rate-negative.png)
+    ![screenshot](images/effects-bells-rate-negative.png)
 
 + You can use `rrand` to play the sample at a random rate.
     
-    ![צילום מסך](images/effects-bells-rate-random.png)
+    ![screenshot](images/effects-bells-rate-random.png)
 
 + Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
     
-    ![צילום מסך](images/effects-bells-repeat-random.png)
+    ![screenshot](images/effects-bells-repeat-random.png)
