@@ -1,24 +1,24 @@
 ---
 hero_image: images/special-effects.png
-theme: כָּתוֹם
+theme: orange
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Special Effects
 description: Create special effects for a film or computer game.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/special-effects
-interests: מוסיקה
+interests: music
 technologies: ''
-site_areas: פרויקטים
+site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: מבוא
+    title: Introduction
   - 
     title: Suspense
   - 
