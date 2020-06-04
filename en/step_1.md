@@ -1,6 +1,8 @@
 ## Introduction
 
-In this project you will create some special effect sounds that can be used in a film or a computer game.
+In this project you will use Sonic Pi to create some special effect sounds that can be used in a film or a computer game.
+
+If you don't have Sonic Pi installed on your computer, you can download it from [sonic-pi.net](https://sonic-pi.net/).
 
 <div id="audio-preview" class="pdf-hidden">
 
