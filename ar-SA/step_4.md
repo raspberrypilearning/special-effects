@@ -1,25 +1,25 @@
-## Haunted bells
+## أجراس ممسكة
 
-+ Choose an empty buffer to create the next special effect.
++ اختر مخزن مؤقت فارغ لإنشاء التأثير الخاص التالي.
 
-+ Start by adding the `:perc_bell` sample.
++ ابدأ بإضافة العينة `:perc_bell`.
     
-    ![screenshot](images/effects-bells-sample.png)
+    ![لقطة الشاشة](images/effects-bells-sample.png)
 
-+ Press 'Run' to play the sample and see how it sounds.
++ اضغط على 'تشغيل' لاختبار العينة الخاصة بك لترى كيف يبدو صوتها.
 
-+ Change the `rate` of the sample to see how it sounds played at different speeds.
++ قم بتغيير معدل `` من العينة لترى كيف يتم تشغيل الأصوات بسرعات مختلفة.
     
-    ![screenshot](images/effects-bells-rate-high.png)
+    ![لقطة الشاشة](images/effects-bells-rate-high.png)
 
-+ Change the `rate` to `-1`. What does this do to the sample?
++ تغيير معدل `` إلى `-1`. ماذا يفعل هذا للعينة؟
     
-    ![screenshot](images/effects-bells-rate-negative.png)
+    ![لقطة الشاشة](images/effects-bells-rate-negative.png)
 
-+ You can use `rrand` to play the sample at a random rate.
++ يمكنك استخدام `rrand` لتشغيل العينة بمعدل عشوائي.
     
-    ![screenshot](images/effects-bells-rate-random.png)
+    ![لقطة الشاشة](images/effects-bells-rate-random.png)
 
-+ Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
++ أضف العينة إلى حلقة تكرار **للأبد**. يمكنك أيضًا استخدام `النوم ` لفترة عشوائية بعد تشغيل العينة.
     
-    ![screenshot](images/effects-bells-repeat-random.png)
+    ![لقطة الشاشة](images/effects-bells-repeat-random.png)
