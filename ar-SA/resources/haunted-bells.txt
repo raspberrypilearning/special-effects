@@ -1,5 +1,5 @@
-#haunted bells
-loop do
-  sample :perc_bell, rate: rrand(-1.5, 1.5)
-  sleep rrand(0.1, 2)
-end
+#أجراس ممسكة
+حلقة تكرار نفذ
+  عينة :perc_bell، معدل: rrand(-1.5, 1.5)
+  نوم rrand(0.1, 2)
+النهاية
