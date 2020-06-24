@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Create your own special effects
+## التحدي: أنشئ تأثيراتك الخاصة
 
-Can you use samples to create your own special effects? Here are some examples to help you:
+هل يمكنك استخدام العينات لإنشاء التأثيرات الخاصة بك؟ إليك بعض الأفكار لمساعدتك:
 
-![screenshot](images/effects-bounce.png)
+![لقطة شاشة](images/effects-bounce.png)
 
-![screenshot](images/effects-alarm.png)
+![لقطة الشاشة](images/effects-alarm.png)
 
-Remember that you can **record** your effects and use them in a film or game that you're developing!
+تذكر أنه يمكنك ** تسجيل التأثيرات الخاصة بك واستخدامها في فيلم أو لعبة تطويرها!</p> 
 
 \--- /challenge \---
