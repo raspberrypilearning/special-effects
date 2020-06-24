@@ -1,6 +1,8 @@
 ## Einleitung
 
-In diesem Projekt erstellst Du einige Spezialeffekte, die in einem Film oder Computerspiel verwendet werden können.
+In this project you will use Sonic Pi to create some special effect sounds that can be used in a film or a computer game.
+
+If you don't have Sonic Pi installed on your computer, you can download it from [sonic-pi.net](https://sonic-pi.net/).
 
 <div id="audio-preview" class="pdf-hidden">
   Klick unten auf die Wiedergabeschaltfläche, um zu hören, wie deine Spezialeffekte klingen werden: #### Spannung: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code>Element nicht. </audio> #### Stürmische Nacht: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code>Element nicht. </audio> #### Verfluchte Glocken: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code>Element nicht. </audio>
@@ -8,7 +10,7 @@ In diesem Projekt erstellst Du einige Spezialeffekte, die in einem Film oder Com
 
 ### Zusätzliche Information für Clubleiter
 
-Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/special-effects/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
 ## \--- collapse \---
 
@@ -16,15 +18,15 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-In diesem Projekt lernen Kinder, wie sie Samples bearbeiten, um Spezialeffekte zu erzeugen.
+In this project, children will learn how to manipulate samples to create spacial effects.
 
 ## Ressourcen
 
-Der Link "Projektmaterialien" für dieses Projekt enthält die folgenden Ressourcen:
+The 'Project Materials' link for this project contains the following resources:
 
 ##### Ressourcen für Clubleiter
 
-Sie können eine vollständige Version dieses Projekts finden, indem Sie auf den Link "Projektmaterialien" für dieses Projekt klicken, der Folgendes enthält:
+You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * suspense.txt
 * suspense.mp3
@@ -39,7 +41,7 @@ Sie können eine vollständige Version dieses Projekts finden, indem Sie auf den
 * Sample `Rate` und `Amp`
 * Zufällige Werte verwenden
 
-Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Problemlösung durch Kombination von Programmierstrukturen.](https://www.raspberrypi.org/curriculum/programming/builder)
 
@@ -51,7 +53,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 * Die in Sonic Pi verfügbaren Samples können die Lernenden unter [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) finden. Alternativ können sie einfach `sample [space]` eingeben und aus der angezeigten Liste auswählen.
 
-\--- /collapse\---
+\--- /collapse \---
 
 ## \--- collapse \---
 
