@@ -1,5 +1,5 @@
-#suspense
-4.times do
-  sample :ambi_choir, rate: 3
-  sleep 0.5
-end
+تشويق
+4 مرات أفعل
+  عينة :ambi_swoosh, المعدل: 3
+  النوم 0.5
+النهاية
