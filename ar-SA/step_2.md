@@ -1,23 +1,23 @@
-## Suspense
+## تشويق
 
-Let's start by creating a sound to show that danger is approaching.
+دعونا نبدأ بإنشاء صوت لإظهار أن الخطر يقترب.
 
-+ To create the first special effect you should add the `:ambi_choir` sample to am empty buffer.
++ لإنشاء التأثير الخاص الأول يجب عليك إضافة العينة `:ambi_choir` إلى المخزن المؤقت الفارغ.
     
-    ![screenshot](images/effects-suspense-sample.png)
+    ![لقطة الشاشة](images/effects-suspense-sample.png)
 
-+ You can change the **rate** at which a sample is played. A `rate` of `1` is the sample's normal speed, and using a `rate` of less than 1 will slow the sample down.
++ يمكنك تغيير معدل **0** الذي يتم فيه تشغيل العينة. معدل `` من `1` هو السرعة العادية للعيّنة، وباستخدام معدل `` أقل من 1 سيبطئ العينة إلى الأسفل.
     
-    ![screenshot](images/effects-suspense-rate-low.png)
+    ![لقطة الشاشة](images/effects-suspense-rate-low.png)
 
-+ Press 'Run' to hear your sample played slowly. How does the sample sound?
++ اضغط على 'تشغيل' لسماع العينة الخاصة بك ببطء. كيف يبدو صوت العينة؟
 
-+ A `rate` higher than 1 speeds the sample up.
++ معدل `` أعلى من 1 تسرع العينة.
     
-    ![screenshot](images/effects-suspense-rate-high.png)
+    ![لقطة الشاشة](images/effects-suspense-rate-high.png)
 
-+ Test your sample again. How does it sound now?
++ اختبر العينة الخاصة بك مرة أخرى. كيف يبدو صوته الان؟
 
-+ You can repeat the sample a few times by putting it in a loop. You'll also need to add a `sleep` after playing the sample.
++ يمكنك تكرار العينة عدة مرات عن طريق وضعها في حلقة تكرارية. ستحتاج أيضًا إلى إضافة `نوم ` بعد تشغيل العينة.
     
-    ![screenshot](images/effects-suspense-repeat.png)
+    ![لقطة الشاشة](images/effects-suspense-repeat.png)
