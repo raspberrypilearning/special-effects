@@ -10,7 +10,7 @@ If you don't have Sonic Pi installed on your computer, you can download it from 
 
 ### معلومات إضافية لقادة النادي
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
 ## \--- collapse \---
 
@@ -18,15 +18,15 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## المقدمة:
 
-In this project, children will learn how to manipulate samples to create spacial effects.
+في هذا المشروع، سيتعلم الأطفال كيفية التلاعب بالعينات لإنشاء تأثيرات خاصة.
 
 ## المصادر
 
-The 'Project Materials' link for this project contains the following resources:
+يحتوي رابط "مواد المشروع" لهذا المشروع على الموارد التالية:
 
 ##### مصادر قادة النادي
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+يمكنك العثور على نسخة كاملة من هذا المشروع بالنقر على رابط "مواد المشروع" لهذا المشروع، والذي يحتوي على:
 
 * suspense.txt
 * suspense.mp3
@@ -41,7 +41,7 @@ You can find a completed version of this project by clicking the 'Project Materi
 * معدل ` العينة ` و ` amp `
 * استخدام قيم عشوائية
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
 * [دمج تركيبات البرمجة لحل المشكلة.](https://www.raspberrypi.org/curriculum/programming/builder)
 
