@@ -1,8 +1,8 @@
 ## المقدمة
 
-In this project you will use Sonic Pi to create some special effect sounds that can be used in a film or a computer game.
+في هذا المشروع سوف تستخدم Sonic Pi لإنشاء بعض الأصوات المؤثرة الخاصة التي يمكن استخدامها في فيلم أو لعبة كمبيوتر.
 
-If you don't have Sonic Pi installed on your computer, you can download it from [sonic-pi.net](https://sonic-pi.net/).
+إذا لم يكن لديك Sonic Pi مثبت على جهاز الكمبيوتر الخاص بك، يمكنك تنزيله من [sonic-pi.net](https://sonic-pi.net/).
 
 <div id="audio-preview" class="pdf-hidden">
   انقر على زر التشغيل أدناه لتسمع كيف ستبدو مؤثراتك الخاصة: #### تعليق: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio> #### ليلة عاصفة: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio> #### أجراس ممسكة: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio>
