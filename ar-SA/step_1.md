@@ -5,8 +5,25 @@
 إذا لم يكن لديك Sonic Pi مثبت على جهاز الكمبيوتر الخاص بك، يمكنك تنزيله من [sonic-pi.net](https://sonic-pi.net/).
 
 <div id="audio-preview" class="pdf-hidden">
-  انقر على زر التشغيل أدناه لتسمع كيف ستبدو مؤثراتك الخاصة: #### تعليق: 
-  <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio> #### ليلة عاصفة: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio> #### أجراس ممسكة: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio>
+  انقر على زر التشغيل أدناه لتسمع كيف ستبدو مؤثراتك الخاصة:
+  
+  #### تعليق: 
+  <audio controls preload> 
+    <source src="resources/suspense.mp3" type="audio/mpeg">
+  المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. 
+  </audio> 
+
+  #### ليلة عاصفة: 
+  <audio controls preload> 
+    <source src="resources/stormy-night.mp3" type="audio/mpeg">
+  المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. 
+  </audio> 
+   
+  #### أجراس ممسكة: 
+  <audio controls preload> 
+    <source src="resources/haunted-bells.mp3" type="audio/mpeg">
+  المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. 
+  </audio>
 </div>
 
 ### معلومات إضافية لقادة النادي
