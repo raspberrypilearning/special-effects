@@ -68,4 +68,4 @@
 * [لتحميل التأثير الخاص لـ Sonic Pi 'Suspense'](resources/haunted-bells.txt)
 * [التحميل الكامل للمشروع، ملف mp3](resources/haunted-bells.mp3)
 
-\--- /collapse \---
+\--- collapse/ \---
