@@ -18,7 +18,7 @@ Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](h
 
 ## Inleiding
 
-In dit project leren kinderen hoe ze samples kunnen manipuleren om ruimtelijke effecten te creëren.
+In dit project leren kinderen hoe ze samples kunnen manipuleren om speciale effecten te creëren.
 
 ## Bronnen
 
