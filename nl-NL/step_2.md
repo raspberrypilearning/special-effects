@@ -1,23 +1,23 @@
-## Suspense
+## Spanning
 
-Let's start by creating a sound to show that danger is approaching.
+Laten we beginnen met het maken van een geluid om te laten zien dat er gevaar nadert.
 
-+ To create the first special effect you should add the `:ambi_choir` sample to am empty buffer.
++ Om het eerste speciale effect te creëren, moet je de `:ambi_choir` sample toevoegen aan een lege buffer.
     
-    ![screenshot](images/effects-suspense-sample.png)
+    ![schermafbeelding](images/effects-suspense-sample.png)
 
-+ You can change the **rate** at which a sample is played. A `rate` of `1` is the sample's normal speed, and using a `rate` of less than 1 will slow the sample down.
++ Je kunt de <0>rate</0> (snelheid) wijzigen waarop een sample wordt afgespeeld. Een `rate` van `1` is de normale snelheid van de sample, en met een `rate` van minder dan 1 zal de sample vertragen.
     
-    ![screenshot](images/effects-suspense-rate-low.png)
+    ![schermafbeelding](images/effects-suspense-rate-low.png)
 
-+ Press 'Run' to hear your sample played slowly. How does the sample sound?
++ Druk op 'Run' om je sample langzaam af te spelen. Hoe klinkt de sample?
 
-+ A `rate` higher than 1 speeds the sample up.
++ Een `rate` hoger dan 1 versnelt de sample.
     
-    ![screenshot](images/effects-suspense-rate-high.png)
+    ![schermafbeelding](images/effects-suspense-rate-high.png)
 
-+ Test your sample again. How does it sound now?
++ Test je sample nog eens. Hoe klinkt het nu?
 
-+ You can repeat the sample a few times by putting it in a loop. You'll also need to add a `sleep` after playing the sample.
++ Je kunt de sample een paar keer herhalen door het in een loop te zetten. Je zult ook een `sleep` toe moeten voegen na de sample.
     
-    ![screenshot](images/effects-suspense-repeat.png)
+    ![schermafbeelding](images/effects-suspense-repeat.png)
