@@ -1,25 +1,25 @@
-## Haunted bells
+## Cloches hantées
 
-+ Choose an empty buffer to create the next special effect.
++ Choisis un tampon vide pour créer le prochain effet spécial.
 
-+ Start by adding the `:perc_bell` sample.
++ Commence par ajouter l'échantillon `:perc_bell`.
     
-    ![screenshot](images/effects-bells-sample.png)
+    ![capture d'écran](images/effects-bells-sample.png)
 
-+ Press 'Run' to play the sample and see how it sounds.
++ Appuie sur « Run » pour lire l'échantillon et voir comment il sonne.
 
-+ Change the `rate` of the sample to see how it sounds played at different speeds.
++ Modifie le `taux` de l'échantillon pour voir comment il sonne joué à différentes vitesses.
     
-    ![screenshot](images/effects-bells-rate-high.png)
+    ![capture d'écran](images/effects-bells-rate-high.png)
 
-+ Change the `rate` to `-1`. What does this do to the sample?
++ Modifie le `taux` à ` -1` . Qu'est-ce que cela fait à l'échantillon ?
     
-    ![screenshot](images/effects-bells-rate-negative.png)
+    ![capture d'écran](images/effects-bells-rate-negative.png)
 
-+ You can use `rrand` to play the sample at a random rate.
++ Tu peux utiliser `rrand` pour jouer l'échantillon à un rythme aléatoire.
     
-    ![screenshot](images/effects-bells-rate-random.png)
+    ![capture d'écran](images/effects-bells-rate-random.png)
 
-+ Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
++ Ajoute l'échantillon à une boucle qui se répète **indéfiniment**. Tu peux aussi faire un `sleep` pendant une période aléatoire après que l'échantillon est joué.
     
-    ![screenshot](images/effects-bells-repeat-random.png)
+    ![capture d'écran](images/effects-bells-repeat-random.png)
