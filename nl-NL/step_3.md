@@ -1,33 +1,33 @@
-## Stormy night
+## Stormachtige nacht
 
-+ Choose an empty buffer to create the next special effect.
++ Kies een lege buffer om het volgende speciale effect te maken.
 
-+ To begin, add the `:ambi_swoosh` sample.
++ Voeg de `:ambi_swoosh` sample toe om te beginnen.
     
-    ![screenshot](images/effects-storm-sample.png)
+    ![schermafbeelding](images/effects-storm-sample.png)
 
-+ Press 'Run' to test your sample and see how it sounds.
++ Druk op 'Run' om je sample te testen en te zien hoe het klinkt.
 
-+ If you slow the sample down, you'll hear that it sounds like a storm.
++ Als je de sample vertraagt, hoor je dat het klinkt als een storm.
     
-    ![screenshot](images/effects-storm-rate.png)
+    ![schermafbeelding](images/effects-storm-rate.png)
 
-+ You could also add a `:misc_crow` sample, that is played at the same time.
++ Je kunt ook een `:misc_crow` sample toevoegen, die tegelijkertijd wordt afgespeeld.
     
-    ![screenshot](images/effects-storm-crow.png)
+    ![schermafbeelding](images/effects-storm-crow.png)
 
-+ Put the `:misc_crow` sample in a loop, so it is played 4 times with a 1 beat `sleep` each time it is played.
++ Zet de `:misc_crow` sample in een lus, zodat het 4 keer wordt gespeeld met een `sleep` van 1 tel telkens als het wordt afgespeeld.
     
-    ![screenshot](images/effects-storm-crow-repeat.png)
+    ![schermafbeelding](images/effects-storm-crow-repeat.png)
 
-+ Instead of sleeping for 1 beat each time, you can use `rrand` to which will give you a random number between the 2 values in brackets.
++ In plaats van 1 tel te slapen kun je `rrand` gebruiken waarmee je een willekeurig getal tussen de 2 waarden in haakjes krijgt.
     
-    ![screenshot](images/effects-storm-crow-rand.png)
+    ![schermafbeelding](images/effects-storm-crow-rand.png)
 
-+ The **amplitude** of a sound is the size of the sound wave. Changing the amplitude of a sound wave changes its **volume**.
++ De **amplitude** van een geluid is de grootte van de geluidsgolf. Door de amplitude van een geluidsgolf te wijzigen, verandert het **volume**.
     
     ![amplitude](images/effects-amplitude.png)
     
-    You can use `amp` to make a sample play at a different volume. A number less than 1 will play a sample quieter.
+    Je kunt `amp` gebruiken om een sample te laten spelen met een ander volume. Een getal minder dan 1 zal een sample zachter spelen.
     
-    ![screenshot](images/effects-storm-crow-amp.png)
+    ![schermafbeelding](images/effects-storm-crow-amp.png)
