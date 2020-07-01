@@ -5,7 +5,7 @@
 यदि आपके पास आपके कंप्यूटर पर Sonic Pi स्थापित नहीं है, तो आप इसे [sonic-pi.net](https://sonic-pi.net/) से डाउनलोड कर सकते हैं ।
 
 <div id="audio-preview" class="pdf-hidden">
-  यह सुनने के लिए नीचे दिए गए प्ले बटन पर क्लिक करें कि आपके विशेष प्रभाव कैसे दिखेंगे: #### रहस्य: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> #### तूफानी रात: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> #### भुतहा घंटियाँ: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
+  यह सुनने के लिए नीचे दिए गए प्ले बटन पर क्लिक करें कि आपके विशेष प्रभाव कैसे दिखेंगे: #### रहस्य: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> #### तूफानी रात: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio> #### भूतिया घंटियाँ: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
 </div>
 
 ### क्लब लीडर्स के लिए अतिरिक्त जानकारी
@@ -61,11 +61,11 @@
 
 ## क्लब लीडर ले लिए संसाधन
 
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'रहस्य' का विशेष प्रभाव है](resources/suspense.txt)
+* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'रहस्य' का विशेष प्रभाव](resources/suspense.txt)
 * [डाउनलोड करने योग्य पूर्ण की गई 'रहस्य' mp3 फ़ाइल](resources/suspense.mp3)
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'रहस्य' का विशेष प्रभाव है](resources/stormy-night.txt)
+* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'रहस्य' का विशेष प्रभाव](resources/stormy-night.txt)
 * [डाउनलोड करने योग्य पूर्ण की गई 'तूफानी रात' mp3 फ़ाइल](resources/stormy-night.mp3)
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'भुतहा घंटियाँ' का विशेष प्रभाव है](resources/haunted-bells.txt)
-* [डाउनलोड करने योग्य पूर्ण की गई 'भुतहा घंटियाँ' mp3 फ़ाइल](resources/haunted-bells.mp3)
+* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'भूतिया घंटियाँ' का विशेष प्रभाव है](resources/haunted-bells.txt)
+* [डाउनलोड करने योग्य पूर्ण की गई 'भूतिया घंटियाँ' mp3 फ़ाइल](resources/haunted-bells.mp3)
 
 \--- /collapse \---
