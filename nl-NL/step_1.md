@@ -1,30 +1,30 @@
-## Introduction
+## Inleiding
 
-In this project you will use Sonic Pi to create some special effect sounds that can be used in a film or a computer game.
+In dit project gebruik je Sonic Pi om een aantal speciale effectgeluiden te creëren die gebruikt kunnen worden in een film of een computerspel.
 
-If you don't have Sonic Pi installed on your computer, you can download it from [sonic-pi.net](https://sonic-pi.net/).
+Als je geen Sonic Pi hebt geïnstalleerd op je computer, kun je deze downloaden van [sonic-pi.net](https://sonic-pi.net/).
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your special effects will sound: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Stormy night: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Haunted bells: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Klik op de afspeelknop hieronder om te horen hoe je speciale effecten klinken: #### Spanning: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Stormachtige nacht: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Spookachtige bellen: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### Aanvullende informatie voor clubleiders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Opmerkingen voor docenten
 
 ## Introduction:
 
-In this project, children will learn how to manipulate samples to create spacial effects.
+In dit project leren kinderen hoe ze samples kunnen manipuleren om ruimtelijke effecten te creëren.
 
-## Resources
+## Bronnen
 
 The 'Project Materials' link for this project contains the following resources:
 
-##### Club leader Resources
+##### Clubleider bronnen
 
 You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
@@ -35,7 +35,7 @@ You can find a completed version of this project by clicking the 'Project Materi
 * haunted-bells.txt
 * haunted-bells.mp3
 
-## Learning Objectives
+## Leerdoelen
 
 * Sonic Pi samples
 * Sample `rate` and `amp`
@@ -43,9 +43,9 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combineer programmeerconstructies om een ​​probleem op te lossen.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Uitdagingen
 
 * "Create your own special effects" - using samples to create special effects.
 
@@ -57,7 +57,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projectmaterialen
 
 ## Club leader resources
 
