@@ -1,25 +1,25 @@
-## Haunted bells
+## Spookachtige bellen
 
-+ Choose an empty buffer to create the next special effect.
++ Kies een lege buffer om het volgende speciale effect te maken.
 
-+ Start by adding the `:perc_bell` sample.
++ Begin met het toevoegen van de `:perc_bell` sample.
     
-    ![screenshot](images/effects-bells-sample.png)
+    ![schermafbeelding](images/effects-bells-sample.png)
 
-+ Press 'Run' to play the sample and see how it sounds.
++ Druk op 'Run' om de sample af te spelen en te zien hoe het klinkt.
 
-+ Change the `rate` of the sample to see how it sounds played at different speeds.
++ Wijzig de `rate` van de sample om te zien hoe het klinkt met verschillende snelheden.
     
-    ![screenshot](images/effects-bells-rate-high.png)
+    ![schermafbeelding](images/effects-bells-rate-high.png)
 
-+ Change the `rate` to `-1`. What does this do to the sample?
++ Verander de `rate` in `-1`. Wat doet dit met de sample?
     
-    ![screenshot](images/effects-bells-rate-negative.png)
+    ![schermafbeelding](images/effects-bells-rate-negative.png)
 
-+ You can use `rrand` to play the sample at a random rate.
++ Je kunt `rrand` gebruiken om de sample op een willekeurige snelheid af te spelen.
     
-    ![screenshot](images/effects-bells-rate-random.png)
+    ![schermafbeelding](images/effects-bells-rate-random.png)
 
-+ Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
++ Voeg de sample toe aan een lus die **voor altijd** herhaalt. Je kunt ook een `sleep` met een willekeurige tijd doen nadat de sample is afgespeeld.
     
-    ![screenshot](images/effects-bells-repeat-random.png)
+    ![schermafbeelding](images/effects-bells-repeat-random.png)
