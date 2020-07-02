@@ -6,7 +6,7 @@ Peux-tu utiliser des échantillons pour créer tes propres effets spéciaux ? Vo
 
 ![capture d’écran](images/effects-bounce.png)
 
-![screenshot](images/effects-alarm.png)
+![capture d'écran](images/effects-alarm.png)
 
 N'oublie pas que tu peux **enregistrer** tes effets et les utiliser dans un film ou un jeu que tu développes !
 
