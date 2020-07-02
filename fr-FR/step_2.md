@@ -6,7 +6,7 @@ Commençons par créer un son pour montrer que le danger approche.
     
     ![capture d'écran](images/effects-suspense-sample.png)
 
-+ You can change the **rate** at which a sample is played. Un `taux` de `1` est la vitesse normale de l'échantillon, et utiliser un `taux` de moins de 1 ralentira l'échantillon.
++ Tu peux modifier le taux ** ** auquel un échantillon est joué. Un `taux` de `1` est la vitesse normale de l'échantillon, et utiliser un `taux` de moins de 1 ralentira l'échantillon.
     
     ![capture d'écran](images/effects-suspense-rate-low.png)
 
