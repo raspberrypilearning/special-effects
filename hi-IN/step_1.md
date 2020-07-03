@@ -20,7 +20,7 @@
 आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
 </audio> 
 
-#### भुतहा घंटियाँ: 
+#### भूतिया घंटियाँ: 
 <audio controls preload> 
   <source src="resources/haunted-bells.mp3" type="audio/mpeg"> 
 आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
@@ -82,11 +82,11 @@ title: प्रोजेक्ट सामग्री
 
 ## क्लब लीडर ले लिए संसाधन
 
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'रहस्य' का विशेष प्रभाव है](resources/suspense.txt)
+* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'रहस्य' का विशेष प्रभाव](resources/suspense.txt)
 * [डाउनलोड करने योग्य पूर्ण की गई 'रहस्य' mp3 फ़ाइल](resources/suspense.mp3)
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'रहस्य' का विशेष प्रभाव है](resources/stormy-night.txt)
+* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'रहस्य' का विशेष प्रभाव](resources/stormy-night.txt)
 * [डाउनलोड करने योग्य पूर्ण की गई 'तूफानी रात' mp3 फ़ाइल](resources/stormy-night.mp3)
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'भुतहा घंटियाँ' का विशेष प्रभाव है](resources/haunted-bells.txt)
-* [डाउनलोड करने योग्य पूर्ण की गई 'भुतहा घंटियाँ' mp3 फ़ाइल](resources/haunted-bells.mp3)
+* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi 'भूतिया घंटियाँ' का विशेष प्रभाव है](resources/haunted-bells.txt)
+* [डाउनलोड करने योग्य पूर्ण की गई 'भूतिया घंटियाँ' mp3 फ़ाइल](resources/haunted-bells.mp3)
 
 --- /collapse ---

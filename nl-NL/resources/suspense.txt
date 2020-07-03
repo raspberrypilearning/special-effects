@@ -1,0 +1,5 @@
+#spanning
+4.times do
+  sample :ambi_choir, rate: 3
+  sleep 0.5
+end

@@ -1,0 +1,24 @@
+---
+hero_image: images/special-effects.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programmation-1, phys-comp-0, fabrication-0, communauté-0
+title: Effets spéciaux
+description: Créer des effets spéciaux pour un film ou un jeu vidéo.
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/special-effects
+interests: musique
+technologies: ''
+site_areas: projets
+hardware: ''
+software: ''
+version: 3
+last_tested: 01/01/2017
+steps:
+  - title: Introduction
+  - title: Suspense
+  - title: Nuit orageuse
+  - title: Cloches hantées
+  - title: 'Défi : créer tes propres effets spéciaux'
