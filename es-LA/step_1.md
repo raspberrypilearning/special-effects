@@ -1,8 +1,8 @@
 ## Introducción
 
-In this project you will use Sonic Pi to create some special effect sounds that can be used in a film or a computer game.
+En este proyecto utilizarás Sonic Pi para crear algunos sonidos de efectos especiales que pueden ser utilizados en una película o en un videojuego.
 
-If you don't have Sonic Pi installed on your computer, you can download it from [sonic-pi.net](https://sonic-pi.net/).
+Si no tienes Sonic Pi instalado en tu computadora, puedes descargarlo de [sonic-pi.net](https://sonic-pi.net/).
 
 <div id="audio-preview" class="pdf-hidden">
   Haz click en el botón de reproducción de abajo para escuchar como sonarán tus efectos especiales: ####Suspenso: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio> #### Noche de tormenta: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio> #### Campanas embrujadas: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
@@ -10,7 +10,7 @@ If you don't have Sonic Pi installed on your computer, you can download it from 
 
 ### Información adicional para los líderes del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
+Si necesitas imprimir este proyecto, por favor usa [la versión para imprimir](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
 ## \--- collapse \---
 
@@ -22,11 +22,11 @@ En este proyecto, los niños y niñas aprenderán cómo manipular muestras para 
 
 ## Recursos
 
-The 'Project Materials' link for this project contains the following resources:
+El enlace 'Materiales del proyecto' contiene los siguientes recursos para este proyecto:
 
 ##### Recursos para los líderes del club
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Puedes encontrar una versión completa de este proyecto haciendo clic en el enlace 'Materiales del proyecto', que contiene:
 
 * suspense.txt
 * suspense.mp3
@@ -41,7 +41,7 @@ You can find a completed version of this project by clicking the 'Project Materi
 * Ejemplo `valor`y`amp`
 * Usando valores aleatorios
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
 * [Combina estructuras de programación para resolver un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
