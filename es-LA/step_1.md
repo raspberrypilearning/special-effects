@@ -18,7 +18,7 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## Introducción:
 
-In this project, children will learn how to manipulate samples to create spacial effects.
+En este proyecto, los niños y niñas aprenderán cómo manipular muestras para crear efectos especiales.
 
 ## Recursos
 
