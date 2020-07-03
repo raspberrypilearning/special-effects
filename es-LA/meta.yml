@@ -1,0 +1,24 @@
+---
+hero_image: images/special-effects.png
+theme: orange
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Efectos especiales
+description: Crea efectos especiales para una película o un juego de computadora.
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/special-effects
+interests: music
+technologies: ''
+site_areas: projects
+hardware: ''
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introducción
+  - title: Suspenso
+  - title: Noche de tormenta
+  - title: Campanas embrujadas
+  - title: 'Desafío: Crea tus propios efectos especiales'
