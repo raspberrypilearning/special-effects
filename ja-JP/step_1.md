@@ -1,6 +1,6 @@
-## Introduction
+## はじめに
 
-In this project you will use Sonic Pi to create some special effect sounds that can be used in a film or a computer game.
+このプロジェクトでは、Sonic Piを使って映画やコンピュータゲームで使える特殊効果音（とくしゅこうかおん）をつくります。
 
 If you don't have Sonic Pi installed on your computer, you can download it from [sonic-pi.net](https://sonic-pi.net/).
 
