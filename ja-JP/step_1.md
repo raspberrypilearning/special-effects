@@ -18,15 +18,15 @@
 
 ## はじめに
 
-In this project, children will learn how to manipulate samples to create spacial effects.
+このプロジェクトで子どもたちは、サンプル音源に手を加えて特殊効果をつくる方法を学びます。
 
-## Resources
+## 資料
 
-The 'Project Materials' link for this project contains the following resources:
+このプロジェクトの「プロジェクト資料」には次の資料が含まれています：
 
-##### Club leader Resources
+##### クラブ・リーダー向け資料
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+「プロジェクト資料」のリンクをクリックすると、このプロジェクトの完成版が見つかります。完成版のプロジェクトには次のものが含まれています：
 
 * suspense.txt
 * suspense.mp3
@@ -37,8 +37,8 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 ## 学習目標
 
-* Sonic Piのサンプル
-* Sample `rate` and `amp`
+* Sonic Piのサンプル音源
+* サンプル音源の再生`速度`と音の`大きさ`
 * 乱数（らんすう）値の使用
 
 このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の中から、以下の内容を取り扱います：
@@ -47,25 +47,25 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 ## チャレンジ
 
-* "Create your own special effects" - using samples to create special effects.
+* 「自分だけの特殊効果（とくしゅこうか）をつくる」—サンプルを使って特殊効果（とくしゅこうか）をつくる
 
 ## よくある質問
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* Sonic Piで利用できるサンプル音源は[jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples)に行くと見つけられます。 `sample [スペース]`と入力し、表示されたリストから選ぶこともできます。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: プロジェクト資料
 
-## Club leader resources
+## クラブ・リーダー向け資料
 
-* [Downloadable completed Sonic Pi 'Suspense' special effecte](resources/suspense.txt)
-* [Downloadable completed 'Suspense' mp3 file](resources/suspense.mp3)
-* [Downloadable completed Sonic Pi 'Stormy night' special effect](resources/stormy-night.txt)
-* [Downloadable completed 'Stormy night' mp3 file](resources/stormy-night.mp3)
-* [Downloadable completed Sonic Pi 'Haunted bells' special effect](resources/haunted-bells.txt)
-* [Downloadable completed 'Haunted bells' mp3 file](resources/haunted-bells.mp3)
+* [ダウンロードできる完成版Sonic Pi「サスペンス」特殊効果](resources/suspense.txt)
+* [ダウンロードできる完成版「サスペンス」MP3ファイル](resources/suspense.mp3)
+* [ダウンロードできる完成版Sonic Pi「嵐（あらし）の夜」特殊効果](resources/stormy-night.txt)
+* [ダウンロードできる完成版「嵐（あらし）の夜」MP3ファイル](resources/stormy-night.mp3)
+* [ダウンロードできる完成版Sonic Pi「オバケのベル」特殊効果](resources/haunted-bells.txt)
+* [ダウンロードできる完成版「オバケのベル」MP3ファイル](resources/haunted-bells.mp3)
 
 \--- /collapse \---
