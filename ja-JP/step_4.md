@@ -1,25 +1,25 @@
-## Haunted bells
+## オバケのベル
 
-+ Choose an empty buffer to create the next special effect.
++ 空のバッファを選んで、次の特殊効果（とくしゅこうか）をつくります。
 
-+ Start by adding the `:perc_bell` sample.
++ まず、サンプル音源`:perc_bell`を追加します。
     
-    ![screenshot](images/effects-bells-sample.png)
+    ![スクリーンショット](images/effects-bells-sample.png)
 
-+ Press 'Run' to play the sample and see how it sounds.
++ 「Run」を押してサンプル音源を再生し、どのように聞こえるか確認します。
 
-+ Change the `rate` of the sample to see how it sounds played at different speeds.
++ サンプル音源の`rate`（速度）を変えて、さまざまな速度でどのように再生されるか確認します。
     
-    ![screenshot](images/effects-bells-rate-high.png)
+    ![スクリーンショット](images/effects-bells-rate-high.png)
 
-+ Change the `rate` to `-1`. What does this do to the sample?
++ `rate`（速度）を`-1`に変えます。 これはサンプル音源に何をしていますか？
     
-    ![screenshot](images/effects-bells-rate-negative.png)
+    ![スクリーンショット](images/effects-bells-rate-negative.png)
 
-+ You can use `rrand` to play the sample at a random rate.
++ ランダムな速度でサンプル音源を再生するのに`rrand`が使えます。
     
-    ![screenshot](images/effects-bells-rate-random.png)
+    ![スクリーンショット](images/effects-bells-rate-random.png)
 
-+ Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
++ **forever**（ずっと）繰り返すループの中にサンプル音源を追加します。 サンプル音源が再生された後に、ランダムな時間だけ`sleep`（休止）することもできます。
     
-    ![screenshot](images/effects-bells-repeat-random.png)
+    ![スクリーンショット](images/effects-bells-repeat-random.png)
