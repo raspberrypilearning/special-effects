@@ -2,21 +2,21 @@
 
 このプロジェクトでは、Sonic Piを使って映画やコンピュータゲームで使える特殊効果音（とくしゅこうかおん）をつくります。
 
-If you don't have Sonic Pi installed on your computer, you can download it from [sonic-pi.net](https://sonic-pi.net/).
+コンピュータにSonic Piをインストールしていない場合は、[sonic-pi.net](https://sonic-pi.net/)からダウンロードできます。
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your special effects will sound: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Stormy night: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Haunted bells: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  下にある再生ボタンを押して、特殊効果音（とくしゅこうかおん）がどんなふうに鳴るか聞いてみましょう。 #### サスペンス： <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio> #### 嵐（あらし）の夜： <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio> #### オバケのベル： <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
 </div>
 
-### Additional information for club leaders
+### クラブリーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/special-effects/print)を使用してください。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title：クラブリーダー・ノート
 
-## Introduction:
+## はじめに
 
 In this project, children will learn how to manipulate samples to create spacial effects.
 
@@ -35,21 +35,21 @@ You can find a completed version of this project by clicking the 'Project Materi
 * haunted-bells.txt
 * haunted-bells.mp3
 
-## Learning Objectives
+## 学習目標
 
-* Sonic Pi samples
+* Sonic Piのサンプル
 * Sample `rate` and `amp`
-* Using random values
+* 乱数（らんすう）値の使用
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の中から、以下の内容を取り扱います：
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [プログラミング構造を組み合わせて問題を解決する。](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## チャレンジ
 
 * "Create your own special effects" - using samples to create special effects.
 
-## Frequently Asked Questions
+## よくある質問
 
 * To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
