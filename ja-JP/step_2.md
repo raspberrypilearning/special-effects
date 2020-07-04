@@ -1,23 +1,23 @@
-## Suspense
+## サスペンス
 
-Let's start by creating a sound to show that danger is approaching.
+危険が近づいていることを示す音をつくることからはじめましょう。
 
 + To create the first special effect you should add the `:ambi_choir` sample to am empty buffer.
     
-    ![screenshot](images/effects-suspense-sample.png)
+    ![スクリーンショット](images/effects-suspense-sample.png)
 
-+ You can change the **rate** at which a sample is played. A `rate` of `1` is the sample's normal speed, and using a `rate` of less than 1 will slow the sample down.
++ サンプル音源を再生する**rate**（速度）を変えられます。 `速度`が`1`のときがサンプル音源の通常の速度で、`速度`を1より小さくするとサンプル音源の速度が遅くなります。
     
-    ![screenshot](images/effects-suspense-rate-low.png)
+    ![スクリーンショット](images/effects-suspense-rate-low.png)
 
-+ Press 'Run' to hear your sample played slowly. How does the sample sound?
++ 「Run」を押すとサンプル音源がゆっくり再生されます。 サンプル音源はどのように聞こえますか？
 
-+ A `rate` higher than 1 speeds the sample up.
++ `rate`（速度）が1を超えると、サンプル音源の再生速度が上がります。
     
-    ![screenshot](images/effects-suspense-rate-high.png)
+    ![スクリーンショット](images/effects-suspense-rate-high.png)
 
-+ Test your sample again. How does it sound now?
++ もう一度サンプル音源を試してみましょう。 今度はどのように聞こえますか？
 
-+ You can repeat the sample a few times by putting it in a loop. You'll also need to add a `sleep` after playing the sample.
++ ループの中に入れることで、サンプル音源を何回か繰り返すことができます。 サンプル音源を再生した後に`sleep`（休止）を入れる必要もあります。
     
-    ![screenshot](images/effects-suspense-repeat.png)
+    ![スクリーンショット](images/effects-suspense-repeat.png)
