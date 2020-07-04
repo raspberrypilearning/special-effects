@@ -2,7 +2,7 @@
 
 危険が近づいていることを示す音をつくることからはじめましょう。
 
-+ To create the first special effect you should add the `:ambi_choir` sample to am empty buffer.
++ 最初の特殊効果（とくしゅこうか）をつくるには、サンプル音源`:ambi_choir`を空のバッファに追加する必要があります。
     
     ![スクリーンショット](images/effects-suspense-sample.png)
 
