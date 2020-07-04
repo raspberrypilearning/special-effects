@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Create your own special effects
+## チャレンジ：自分だけの特殊効果（とくしゅこうか）をつくる
 
-Can you use samples to create your own special effects? Here are some examples to help you:
+サンプル音源を使って自分だけの特殊効果（とくしゅこうか）をつくることができますか？ 役に立つ例をいくつか示します：
 
-![screenshot](images/effects-bounce.png)
+![スクリーンショット](images/effects-bounce.png)
 
-![screenshot](images/effects-alarm.png)
+![スクリーンショット](images/effects-alarm.png)
 
-Remember that you can **record** your effects and use them in a film or game that you're developing!
+特殊効果（とくしゅこうか）を**record**（保存）して、あなたがつくっている映画やゲームで使用できることを思い出してください！
 
 \--- /challenge \---
