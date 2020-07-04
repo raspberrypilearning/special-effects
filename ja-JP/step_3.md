@@ -1,33 +1,33 @@
-## Stormy night
+## 嵐（あらし）の夜
 
-+ Choose an empty buffer to create the next special effect.
++ 空のバッファを選んで次の特殊効果（とくしゅこうか）をつくります。
 
-+ To begin, add the `:ambi_swoosh` sample.
++ まず、サンプル音源`:ambi_swoosh`を追加します。
     
-    ![screenshot](images/effects-storm-sample.png)
+    ![スクリーンショット](images/effects-storm-sample.png)
 
-+ Press 'Run' to test your sample and see how it sounds.
++ 「Run」を押してサンプル音源を試して、どのように聞こえるか確認します。
 
-+ If you slow the sample down, you'll hear that it sounds like a storm.
++ サンプル音源の速度を遅くすると、嵐（あらし）のように聞こえます。
     
-    ![screenshot](images/effects-storm-rate.png)
+    ![スクリーンショット](images/effects-storm-rate.png)
 
-+ You could also add a `:misc_crow` sample, that is played at the same time.
++ サンプル音源`:misc_crow`を追加することもできます。それは同時に再生されます。
     
     ![screenshot](images/effects-storm-crow.png)
 
-+ Put the `:misc_crow` sample in a loop, so it is played 4 times with a 1 beat `sleep` each time it is played.
++ ループの中に`:misc_crow`を入れると、再生されるたびに1拍の`sleep`（休止）が入って4回再生されます。
     
-    ![screenshot](images/effects-storm-crow-repeat.png)
+    ![スクリーンショット](images/effects-storm-crow-repeat.png)
 
-+ Instead of sleeping for 1 beat each time, you can use `rrand` to which will give you a random number between the 2 values in brackets.
++ 毎回1拍の休止を入れるかわりに、かっこ内の2つの値の間の乱数が得られる`rrand`を使えます。
     
-    ![screenshot](images/effects-storm-crow-rand.png)
+    ![スクリーンショット](images/effects-storm-crow-rand.png)
 
-+ The **amplitude** of a sound is the size of the sound wave. Changing the amplitude of a sound wave changes its **volume**.
++ 音の**amplitude**（振幅（しんぷく））とは音波の大きさのことです。 音波の振幅（しんぷく）を変えると**volume**（音量）が変わります。
     
-    ![amplitude](images/effects-amplitude.png)
+    ![振幅（しんぷく）](images/effects-amplitude.png)
     
-    You can use `amp` to make a sample play at a different volume. A number less than 1 will play a sample quieter.
+    `amp`（振幅（しんぷく））を使うとサンプル音源を別の音量で再生できます。 1より小さい数値にすると、サンプル音源をより静かに再生します。
     
-    ![screenshot](images/effects-storm-crow-amp.png)
+    ![スクリーンショット](images/effects-storm-crow-amp.png)
