@@ -1,33 +1,33 @@
-## Stormy night
+## Stormy night (Νύχτα με καταιγίδα)
 
-+ Choose an empty buffer to create the next special effect.
++ Επίλεξε ένα κενό πρόγραμμα για να δημιουργήσεις το επόμενο ειδικό εφέ.
 
-+ To begin, add the `:ambi_swoosh` sample.
++ Για να ξεκινήσεις, πρόσθεσε το δείγμα `:ambi_swoosh`.
     
-    ![screenshot](images/effects-storm-sample.png)
+    ![στιγμιότυπο οθόνης](images/effects-storm-sample.png)
 
-+ Press 'Run' to test your sample and see how it sounds.
++ Πάτησε «Run» για να ελέγξεις το δείγμα σου και να δεις πώς ακούγεται.
 
-+ If you slow the sample down, you'll hear that it sounds like a storm.
++ Εάν επιβραδύνεις το δείγμα, θα ακούσεις ότι ακούγεται σαν καταιγίδα.
     
-    ![screenshot](images/effects-storm-rate.png)
+    ![στιγμιότυπο οθόνης](images/effects-storm-rate.png)
 
-+ You could also add a `:misc_crow` sample, that is played at the same time.
++ Θα μπορούσες επίσης να προσθέσεις ένα δείγμα `:misc_crow`, το οποίο παίζεται ταυτόχρονα.
     
-    ![screenshot](images/effects-storm-crow.png)
+    ![στιγμιότυπο οθόνης](images/effects-storm-crow.png)
 
-+ Put the `:misc_crow` sample in a loop, so it is played 4 times with a 1 beat `sleep` each time it is played.
++ Βάλε το δείγμα `:misc_crow` σε έναν βρόχο, ώστε να παίζεται 4 φορές με αναμονή `sleep` 1 χτύπο κάθε φορά που παίζει.
     
-    ![screenshot](images/effects-storm-crow-repeat.png)
+    ![στιγμιότυπο οθόνης](images/effects-storm-crow-repeat.png)
 
-+ Instead of sleeping for 1 beat each time, you can use `rrand` to which will give you a random number between the 2 values in brackets.
++ Αντί να περιμένεις για 1 χτύπο κάθε φορά, μπορείς να χρησιμοποιήσεις το `rrand`, στο οποίο θα σου δίνεται ένας τυχαίος αριθμός μεταξύ των 2 τιμών σε αγκύλες.
     
-    ![screenshot](images/effects-storm-crow-rand.png)
+    ![στιγμιότυπο οθόνης](images/effects-storm-crow-rand.png)
 
-+ The **amplitude** of a sound is the size of the sound wave. Changing the amplitude of a sound wave changes its **volume**.
++ Το πλάτος (**amplitude**) ενός ήχου είναι το μέγεθος του ηχητικού κύματος. Η αλλαγή του πλάτους ενός ηχητικού κύματος αλλάζει την ένταση (**volume**).
     
-    ![amplitude](images/effects-amplitude.png)
+    ![πλάτος](images/effects-amplitude.png)
     
-    You can use `amp` to make a sample play at a different volume. A number less than 1 will play a sample quieter.
+    Μπορείς να χρησιμοποιήσεις το `amp` για να κάνεις ένα δείγμα να παίζει με διαφορετική ένταση. Ένας αριθμός μικρότερος από 1 θα παίξει ένα δείγμα με χαμηλότερη ένταση.
     
-    ![screenshot](images/effects-storm-crow-amp.png)
+    ![στιγμιότυπο οθόνης](images/effects-storm-crow-amp.png)
