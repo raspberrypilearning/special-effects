@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Create your own special effects
+## Πρόκληση: Δημιούργησε τα δικά σου ειδικά εφέ
 
-Can you use samples to create your own special effects? Here are some examples to help you:
+Μπορείς να χρησιμοποιήσεις δείγματα για να δημιουργήσεις τα δικά σου ειδικά εφέ; Ακολουθούν ορισμένα παραδείγματα που θα σε βοηθήσουν:
 
-![screenshot](images/effects-bounce.png)
+![στιγμιότυπο οθόνης](images/effects-bounce.png)
 
-![screenshot](images/effects-alarm.png)
+![στιγμιότυπο οθόνης](images/effects-alarm.png)
 
-Remember that you can **record** your effects and use them in a film or game that you're developing!
+Να θυμάσαι ότι μπορείς να καταγράφεις με το **rec** τα αποτελέσματα και να τα χρησιμοποιήσεις σε μια ταινία ή το παιχνίδι που φτιάχνεις!
 
 \--- /challenge \---
