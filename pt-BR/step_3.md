@@ -1,33 +1,33 @@
-## Stormy night
+## Noite de tempestade
 
-+ Choose an empty buffer to create the next special effect.
++ Escolha um buffer vazio para criar o próximo efeito especial.
 
-+ To begin, add the `:ambi_swoosh` sample.
++ Para começar, adicione o sample `:ambi_swoosh`.
     
-    ![screenshot](images/effects-storm-sample.png)
+    ![captura de tela](images/effects-storm-sample.png)
 
-+ Press 'Run' to test your sample and see how it sounds.
++ Pressione 'Run' para testar seu sample e ver como ele soa.
 
-+ If you slow the sample down, you'll hear that it sounds like a storm.
++ Se você diminuir a velocidade do sample, ouvirá que ele soa como uma tempestade.
     
-    ![screenshot](images/effects-storm-rate.png)
+    ![captura de tela](images/effects-storm-rate.png)
 
-+ You could also add a `:misc_crow` sample, that is played at the same time.
++ Você também pode adicionar um sample `:misc_crow`, que é reproduzido ao mesmo tempo.
     
-    ![screenshot](images/effects-storm-crow.png)
+    ![captura de tela](images/effects-storm-crow.png)
 
-+ Put the `:misc_crow` sample in a loop, so it is played 4 times with a 1 beat `sleep` each time it is played.
++ Coloque o sample `:misc_crow` dentro de um laço, então ele é reproduzido 4 vezes com uma batida `sleep` toda vez que for tocado.
     
-    ![screenshot](images/effects-storm-crow-repeat.png)
+    ![captura de tela](images/effects-storm-crow-repeat.png)
 
-+ Instead of sleeping for 1 beat each time, you can use `rrand` to which will give you a random number between the 2 values in brackets.
++ Em vez de dormir por 1 batida de cada vez, você pode usar `rrand` ao qual você fornecerá um número aleatório entre os 2 valores dentro dos parênteses.
     
-    ![screenshot](images/effects-storm-crow-rand.png)
+    ![captura de tela](images/effects-storm-crow-rand.png)
 
-+ The **amplitude** of a sound is the size of the sound wave. Changing the amplitude of a sound wave changes its **volume**.
++ A **amplitude** de um som é o tamanho da onda sonora. Alterando a amplitude de uma onda sonora muda seu **volume**.
     
     ![amplitude](images/effects-amplitude.png)
     
-    You can use `amp` to make a sample play at a different volume. A number less than 1 will play a sample quieter.
+    Você pode usar `amp` para reproduzir um sample em um volume diferente. Um número menor que 1 reproduzirá um sample mais silencioso.
     
-    ![screenshot](images/effects-storm-crow-amp.png)
+    ![captura de tela](images/effects-storm-crow-amp.png)
