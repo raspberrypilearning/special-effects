@@ -1,25 +1,25 @@
-## Haunted bells
+## Sinos assombrados
 
-+ Choose an empty buffer to create the next special effect.
++ Escolha um buffer vazio para criar o próximo efeito especial.
 
-+ Start by adding the `:perc_bell` sample.
++ Comece adicionando o sample `:perc_bell`.
     
-    ![screenshot](images/effects-bells-sample.png)
+    ![captura de tela](images/effects-bells-sample.png)
 
-+ Press 'Run' to play the sample and see how it sounds.
++ Pressione 'Run' para testar o sample e ver como ele soa.
 
-+ Change the `rate` of the sample to see how it sounds played at different speeds.
++ Altere o `rate` do sample para ver como ele soa tocado em diferentes velocidades.
     
-    ![screenshot](images/effects-bells-rate-high.png)
+    ![captura de tela](images/effects-bells-rate-high.png)
 
-+ Change the `rate` to `-1`. What does this do to the sample?
++ Altere o `rate` para `-1`. O que isso faz com o sample?
     
-    ![screenshot](images/effects-bells-rate-negative.png)
+    ![captura de tela](images/effects-bells-rate-negative.png)
 
-+ You can use `rrand` to play the sample at a random rate.
++ Você pode usar `rrand` para tocar o sample a uma taxa aleatória.
     
-    ![screenshot](images/effects-bells-rate-random.png)
+    ![captura de tela](images/effects-bells-rate-random.png)
 
-+ Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
++ Adicione o sample a um laço que se repete **para sempre**. Você também pode ter um tempo aleatório para `dormir` após a reprodução do sample.
     
-    ![screenshot](images/effects-bells-repeat-random.png)
+    ![captura de tela](images/effects-bells-repeat-random.png)
