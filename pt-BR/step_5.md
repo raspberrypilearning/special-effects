@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- desafio \---
 
-## Challenge: Create your own special effects
+## Desafio: Crie seus próprios efeitos especiais
 
-Can you use samples to create your own special effects? Here are some examples to help you:
+Você consegue usar samples para criar seus próprios efeitos especiais? Aqui estão alguns exemplos para ajudá-lo:
 
-![screenshot](images/effects-bounce.png)
+![captura de tela](images/effects-bounce.png)
 
-![screenshot](images/effects-alarm.png)
+![captura de tela](images/effects-alarm.png)
 
-Remember that you can **record** your effects and use them in a film or game that you're developing!
+Lembre-se de que você pode **gravar** seus efeitos e usá-los em um filme ou jogo que você está desenvolvendo!
 
-\--- /challenge \---
+\--- / desafio \---
