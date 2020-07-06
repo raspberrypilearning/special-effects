@@ -14,7 +14,7 @@
 
 + サンプル音源`:misc_crow`を追加することもできます。それは同時に再生されます。
     
-    ![screenshot](images/effects-storm-crow.png)
+    ![スクリーンショット](images/effects-storm-crow.png)
 
 + ループの中に`:misc_crow`を入れると、再生されるたびに1拍の`sleep`（休止）が入って4回再生されます。
     
