@@ -5,7 +5,7 @@
 컴퓨터에 Sonic Pi가 설치되어 있지 않은 경우 [sonic-pi.net](https://sonic-pi.net/)에서 다운로드할 수 있습니다.
 
 <div id="audio-preview" class="pdf-hidden">
-  특수 효과가 어떻게 들리는지 들으려면 아래 재생 버튼을 클릭하세요. #### 서스펜스: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio> #### 폭풍우 치는 밤: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### 유령의 종: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  특수 효과가 어떻게 들리는지 들으려면 아래 재생 버튼을 클릭하세요. #### 서스펜스: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio> #### 폭풍우 치는 밤: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio> #### 유령의 종: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> 브라우저가 <code>오디오</code>를 지원하지 않습니다. </audio>
 </div>
 
 ### 교육자들을 위한 추가 정보
