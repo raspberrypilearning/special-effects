@@ -1,33 +1,33 @@
-## Stormy night
+## 폭풍우 치는 밤
 
-+ Choose an empty buffer to create the next special effect.
++ 다음 특수 효과를 만들려면 빈 버퍼를 선택하세요.
 
-+ To begin, add the `:ambi_swoosh` sample.
++ 시작하려면 `:ambi_swoosh` 샘플을 추가하세요.
     
-    ![screenshot](images/effects-storm-sample.png)
+    ![스크린샷](images/effects-storm-sample.png)
 
-+ Press 'Run' to test your sample and see how it sounds.
++ 'run'을 눌러 샘플이 어떻게 들리는지 확인하세요.
 
-+ If you slow the sample down, you'll hear that it sounds like a storm.
++ 샘플 속도를 늦추면 마치 폭풍과 같은 소리를 듣을 수 있습니다.
     
-    ![screenshot](images/effects-storm-rate.png)
+    ![스크린샷](images/effects-storm-rate.png)
 
-+ You could also add a `:misc_crow` sample, that is played at the same time.
++ 동시에 재생되는 `:misc_crow` 샘플을 추가할 수도 있습니다.
     
-    ![screenshot](images/effects-storm-crow.png)
+    ![스크린샷](images/effects-storm-crow.png)
 
-+ Put the `:misc_crow` sample in a loop, so it is played 4 times with a 1 beat `sleep` each time it is played.
++ `:misc_crow` 샘플을 루프 안에 넣어 한 박씩 `sleep`하면서 네 번 재생되게 하세요.
     
-    ![screenshot](images/effects-storm-crow-repeat.png)
+    ![스크린샷](images/effects-storm-crow-repeat.png)
 
-+ Instead of sleeping for 1 beat each time, you can use `rrand` to which will give you a random number between the 2 values in brackets.
++ 한 박씩 쉬는 대신, 괄호 안 두개의 값 사이의 (0.5와 2가 입력되면, 0.5에서 2 사이의 랜덤값 생성) 랜덤 수를 주는 `rrand`를 사용할 수 있습니다.
     
-    ![screenshot](images/effects-storm-crow-rand.png)
+    ![스크린샷](images/effects-storm-crow-rand.png)
 
-+ The **amplitude** of a sound is the size of the sound wave. Changing the amplitude of a sound wave changes its **volume**.
++ 음파의 **진폭**은 소리의 크기를 의미합니다. 음파의 진폭을 변경하면 **볼륨**을 변경할 수 있습니다.
     
-    ![amplitude](images/effects-amplitude.png)
+    ![진폭](images/effects-amplitude.png)
     
-    You can use `amp` to make a sample play at a different volume. A number less than 1 will play a sample quieter.
+    샘플을 다른 볼륨으로 재생하기 위해 `amp`를 사용할 수 있습니다. 1보다 작은 숫자는 샘플을 더 조용하게 재생합니다.
     
-    ![screenshot](images/effects-storm-crow-amp.png)
+    ![스크린샷](images/effects-storm-crow-amp.png)
