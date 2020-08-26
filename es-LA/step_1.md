@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto utilizarás Sonic Pi para crear algunos sonidos de efectos especiales que pueden ser utilizados en una película o en un videojuego.
+En este proyecto, utilizarás el programa Sonic Pi para crear algunos efectos especiales con sonidos que se puedan usar en una película o en un juego de ordenador.
 
 Si no tienes Sonic Pi instalado en tu computadora, puedes descargarlo de [sonic-pi.net](https://sonic-pi.net/).
 
@@ -38,8 +38,8 @@ Puedes encontrar una versión completa de este proyecto haciendo clic en el enla
 ## Objetivos de aprendizaje
 
 * Muestras Sonic Pi
-* Ejemplo `valor`y`amp`
-* Usando valores aleatorios
+* Ejemplo `valor` y `amp`
+* Usar valores aleatóreos
 
 Este proyecto incluye elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
@@ -61,7 +61,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## Recursos para los líderes del club
 
-* [Descargable del efecto especial 'Suspenso' de Sonic Pi completado](resources/suspense.txt)
+* [Archivo descargable 'Suspenso' de efecto especial Sonic Pi](resources/suspense.txt)
 * [Archivo mp3 descargable 'Suspenso' completado](resources/suspense.mp3)
 * [Archivo de efecto especial descargable 'Noche de tormenta' de Sonic Pi completado](resources/stormy-night.txt)
 * [Archivo mp3 descargable 'Noche de tormenta'completado](resources/stormy-night.mp3)
