@@ -8,6 +8,6 @@
 
 ![captura de pantalla](images/effects-alarm.png)
 
-Recuerda que puedes ** grabar ** tus efectos y usarlos en una película o juego que estás desarrollando!
+¡Recuerda que puedes **grabar** tus efectos y usarlos en una película o juego que estés desarrollando!
 
 \--- /challenge \---
