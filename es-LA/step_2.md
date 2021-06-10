@@ -1,8 +1,8 @@
 ## Suspenso
 
-Comencemos creando un sonido para mostrar que el peligro se está acercando.
+Empecemos creando un sonido que muestre que un peligro se está acercando.
 
-+ Para crear el primer efecto especial, debes agregar la muestra `: ambi_choir` a un búfer vacío.
++ Para crear el primer efecto especial, debes agregar la muestra `:ambi_choir` a un canal vacío.
     
     ![captura de pantalla](images/effects-suspense-sample.png)
 
@@ -10,14 +10,14 @@ Comencemos creando un sonido para mostrar que el peligro se está acercando.
     
     ![captura de pantalla](images/effects-suspense-rate-low.png)
 
-+ Presione 'Run' para escuchar su muestra reproducida lentamente. ¿Cómo suena la muestra?
++ Presiona 'Run' para escuchar su muestra reproducida lentamente. ¿Cómo suena la muestra?
 
-+ Un ` rate ` mayor a 1 acelera la muestra.
++ Un `rate` mayor que 1 acelera la velocidad de reproducción de la muestra.
     
     ![captura de pantalla](images/effects-suspense-rate-high.png)
 
 + Vuelve a probar tu muestra. ¿Cómo suena ahora?
 
-+ Puedes repetir la muestra varias veces poniéndola en un loop. También tendrás que añadir un `sleep` después de reproducir la muestra.
++ Puedes repetir la muestra varias veces poniéndola en un bucle. También tendrás que añadir un `sleep` después de reproducir la muestra.
     
     ![captura de pantalla](images/effects-suspense-repeat.png)
