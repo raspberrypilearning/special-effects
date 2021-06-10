@@ -5,7 +5,26 @@
 Εάν δεν έχεις εγκαταστήσει το Sonic Pi στον υπολογιστή σου, μπορείς να το κατεβάσεις από το [sonic-pi.net](https://sonic-pi.net/).
 
 <div id="audio-preview" class="pdf-hidden">
-  Κάντε κλικ στο κουμπί αναπαραγωγής παρακάτω για να ακούσεις πώς θα ακούγονται τα ειδικά εφέ σου: #### Suspense (Αγωνία): <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio> #### Stormy night (νύχτα με καταιγίδα): <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio> #### Haunted bells (στοιχειωμένες καμπάνες): <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
+
+Κάντε κλικ στο κουμπί αναπαραγωγής παρακάτω για να ακούσεις πώς θα ακούγονται τα ειδικά εφέ σου: 
+
+#### Suspense (Αγωνία): 
+<audio controls preload> 
+  <source src="resources/suspense.mp3" type="audio/mpeg"> 
+Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+</audio> 
+
+#### Stormy night (νύχτα με καταιγίδα): 
+<audio controls preload> 
+  <source src="resources/stormy-night.mp3" type="audio/mpeg"> 
+Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+</audio> 
+
+#### Haunted bells (στοιχειωμένες καμπάνες): 
+<audio controls preload> 
+  <source src="resources/haunted-bells.mp3" type="audio/mpeg"> 
+Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+</audio>
 </div>
 
 ### Πρόσθετες πληροφορίες για τους αρχηγούς των ομάδων
