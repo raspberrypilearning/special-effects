@@ -9,7 +9,7 @@ curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Ειδικά εφέ
 description: Δημιουργήστε ειδικά εφέ για ένα ηλεκτρονικό παιχνίδι ή μια ταινία.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/special-effects
-interests: μουσική
+interests: music
 technologies: ''
 site_areas: projects
 hardware: ''
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - title: Εισαγωγή
-  - title: Suspense (Αγωνία)
-  - title: Stormy night (Νύχτα με καταιγίδα)
-  - title: Haunted bells (Στοιχειωμένες Καμπάνες)
+  - title: Αγωνία
+  - title: Νύχτα με καταιγίδα
+  - title: Στοιχειωμένες καμπάνες
   - title: 'Πρόκληση: Δημιούργησε τα δικά σου ειδικά εφέ'
