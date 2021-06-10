@@ -1,12 +1,12 @@
 ## Noche de tormenta
 
-+ Elija un búfer vacío para crear el siguiente efecto especial.
++ Elige un búfer vacío para crear el siguiente efecto especial.
 
 + Para empezar, añade la muestra `:ambi_swoosh`.
     
     ![captura de pantalla](images/effects-storm-sample.png)
 
-+ Presione 'Run' para probar tu muestra y ver cómo suena.
++ Presiona 'Run' para probar tu muestra y ver cómo suena.
 
 + Si reduces la velocidad de la muestra, escucharás que suena como una tormenta.
     
@@ -16,11 +16,11 @@
     
     ![captura de pantalla](images/effects-storm-crow.png)
 
-+ Pon la muestra `:misc_crow` en un loop, por lo que se reproduce 4 veces con 1 pulso ` sleep` cada vez que se reproduce.
++ Pon la muestra `:misc_crow` en un bucle, para que se reproduzca 4 veces con 1 descanso `sleep` cada vez que se reproduzca.
     
     ![captura de pantalla](images/effects-storm-crow-repeat.png)
 
-+ En lugar de agregar un sonido sleep cada vez, puedes usar ` rrand ` a lo que le dará un número aleatorio entre los 2 valores en paréntesis.
++ En lugar de descansar durante 1 tiempo cada vez, puedes usar `rrand` para que te dé un número aleatorio entre los 2 valores entre paréntesis.
     
     ![captura de pantalla](images/effects-storm-crow-rand.png)
 
