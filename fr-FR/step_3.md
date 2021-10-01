@@ -20,7 +20,7 @@
     
     ![capture d'écran](images/effects-storm-crow-repeat.png)
 
-+ Au lieu d'un sleep pour 1 coup à chaque fois, tu peux utiliser `rrand` qui te donnera un nombre aléatoire entre les 2 valeurs entre parenthèses.
++ Au lieu d'un sleep de 1 battement à chaque fois, tu peux utiliser `rrand` qui te donnera un nombre aléatoire entre les 2 valeurs entre parenthèses.
     
     ![capture d'écran](images/effects-storm-crow-rand.png)
 
