@@ -27,6 +27,7 @@ Ton navigateur ne supporte pas l'élément <code>audio</code>.
   <source src="resources/haunted-bells.mp3" type="audio/mpeg"> 
 Ton navigateur ne supporte pas l'élément <code>audio</code>. 
 </audio>
+
 </div>
 
 ### Informations complémentaires pour les responsables de club

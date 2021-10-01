@@ -12,7 +12,7 @@
     
     ![capture d'écran](images/effects-bells-rate-high.png)
 
-+ Modifie le `taux` à ` -1` . Qu'est-ce que cela fait à l'échantillon ?
++ Modifie le `taux` à `-1`. Qu'est-ce que cela fait à l'échantillon ?
     
     ![capture d'écran](images/effects-bells-rate-negative.png)
 
