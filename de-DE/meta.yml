@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Einleitung
-  - title: Spannung
-  - title: Stürmische Nacht
-  - title: Verfluchte Glocken
-  - title: 'Herausforderung: Erstelle deine eigenen Spezialeffekte'
+- title: Einleitung
+  completion: engaged
+- title: Spannung
+- title: Stürmische Nacht
+- title: Verfluchte Glocken
+  completion: internal
+- title: 'Herausforderung: Erstelle deine eigenen Spezialeffekte'

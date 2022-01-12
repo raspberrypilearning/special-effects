@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: भूमिका
-  - title: रहस्य
-  - title: तूफानी रात
-  - title: भूतिया घंटियाँ
-  - title: 'चुनौती: अपने खुद के विशेष प्रभाव तैयार करना'
+- title: भूमिका
+  completion: engaged
+- title: रहस्य
+- title: तूफानी रात
+- title: भूतिया घंटियाँ
+  completion: internal
+- title: 'चुनौती: अपने खुद के विशेष प्रभाव तैयार करना'

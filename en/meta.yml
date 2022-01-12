@@ -16,9 +16,11 @@ hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Suspense
 - title: Stormy night
 - title: Haunted bells
+  completion: internal
 - title: 'Challenge: Create your own special effects'

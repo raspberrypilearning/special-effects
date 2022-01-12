@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: تشويق
-  - title: ليلة عاصفة
-  - title: أجراس ممسكة
-  - title: 'التحدي: أنشئ تأثيراتك الخاصة'
+- title: المقدمة
+  completion: engaged
+- title: تشويق
+- title: ليلة عاصفة
+- title: أجراس ممسكة
+  completion: internal
+- title: 'التحدي: أنشئ تأثيراتك الخاصة'
