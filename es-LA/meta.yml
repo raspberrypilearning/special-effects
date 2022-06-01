@@ -17,8 +17,12 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Suspenso
-  - title: Noche de tormenta
-  - title: Campanas embrujadas
-  - title: 'Desafío: Crea tus propios efectos especiales'
+- title: Introducción
+- title: Suspenso
+- title: Noche de tormenta
+  completion:
+  - engaged
+- title: Campanas embrujadas
+  completion:
+  - internal
+- title: 'Desafío: Crea tus propios efectos especiales'

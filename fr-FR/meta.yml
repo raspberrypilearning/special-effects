@@ -17,8 +17,12 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Suspense
-  - title: Nuit orageuse
-  - title: Cloches hantées
-  - title: 'Défi : créer tes propres effets spéciaux'
+- title: Introduction
+- title: Suspense
+- title: Nuit orageuse
+  completion:
+  - engaged
+- title: Cloches hantées
+  completion:
+  - internal
+- title: 'Défi : créer tes propres effets spéciaux'
