@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Spannung
 - title: Stürmische Nacht
+  completion:
+  - engaged
 - title: Verfluchte Glocken
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Erstelle deine eigenen Spezialeffekte'

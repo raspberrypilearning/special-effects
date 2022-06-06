@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Αγωνία
 - title: Νύχτα με καταιγίδα
+  completion:
+  - engaged
 - title: Στοιχειωμένες καμπάνες
-  completion: internal
+  completion:
+  - internal
 - title: 'Πρόκληση: Δημιούργησε τα δικά σου ειδικά εφέ'

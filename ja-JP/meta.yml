@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: はじめに
-  completion: engaged
 - title: サスペンス
 - title: 嵐（あらし）の夜
+  completion:
+  - engaged
 - title: オバケのベル
-  completion: internal
+  completion:
+  - internal
 - title: チャレンジ：自分だけの特殊効果（とくしゅこうか）をつくる

@@ -18,9 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: भूमिका
-  completion: engaged
 - title: रहस्य
 - title: तूफानी रात
+  completion:
+  - engaged
 - title: भूतिया घंटियाँ
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: अपने खुद के विशेष प्रभाव तैयार करना'

@@ -18,9 +18,11 @@ version: 3
 last_tested: 01/01/2017
 steps:
 - title: Introdução
-  completion: engaged
 - title: Suspense
 - title: Noite de tempestade
+  completion:
+  - engaged
 - title: Sinos assombrados
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafio: Crie seus próprios efeitos especiais'
