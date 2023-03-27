@@ -17,12 +17,17 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-- title: Εισαγωγή
-- title: Αγωνία
-- title: Νύχτα με καταιγίδα
-  completion:
-  - engaged
-- title: Στοιχειωμένες καμπάνες
-  completion:
-  - internal
-- title: 'Πρόκληση: Δημιούργησε τα δικά σου ειδικά εφέ'
+  - 
+    title: Εισαγωγή
+  - 
+    title: Αγωνία
+  - 
+    title: Νύχτα με καταιγίδα
+    completion:
+      - engaged
+  - 
+    title: Στοιχειωμένες καμπάνες
+    completion:
+      - internal
+  - 
+    title: 'Πρόκληση: Δημιούργησε τα δικά σου ειδικά εφέ'
