@@ -23,7 +23,11 @@ steps:
     title: Suspenso
   - 
     title: Noche tormentosa
+    completion:
+      - engaged
   - 
     title: Campanas embrujadas
+    completion:
+      - internal
   - 
     title: 'Desafío: Crea tus propios efectos especiales'
