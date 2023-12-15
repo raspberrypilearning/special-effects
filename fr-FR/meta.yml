@@ -23,7 +23,11 @@ steps:
     title: Suspense
   - 
     title: Nuit orageuse
+    completion:
+      - engaged
   - 
     title: Cloches hantées
+    completion:
+      - internal
   - 
     title: 'Défi : créer tes propres effets spéciaux'
