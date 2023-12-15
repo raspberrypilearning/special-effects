@@ -23,7 +23,11 @@ steps:
     title: تشويق
   - 
     title: ليلة عاصفة
+    completion:
+      - engaged
   - 
     title: أجراس ممسكة
+    completion:
+      - internal
   - 
     title: 'التحدي: أنشئ تأثيراتك الخاصة'
