@@ -23,7 +23,11 @@ steps:
     title: Spannung
   - 
     title: Stürmische Nacht
+    completion:
+      - engaged
   - 
     title: Verfluchte Glocken
+    completion:
+      - internal
   - 
     title: 'Herausforderung: Erstelle deine eigenen Spezialeffekte'
