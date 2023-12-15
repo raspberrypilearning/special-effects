@@ -23,7 +23,11 @@ steps:
     title: サスペンス
   - 
     title: 嵐（あらし）の夜
+    completion:
+      - engaged
   - 
     title: オバケのベル
+    completion:
+      - internal
   - 
     title: 'チャレンジ：自分だけの特殊効果（とくしゅこうか）をつくる'
