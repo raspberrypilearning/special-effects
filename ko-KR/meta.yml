@@ -23,7 +23,11 @@ steps:
     title: 서스펜스
   - 
     title: 폭풍우 치는 밤
+    completion:
+      - engaged
   - 
     title: 유령의 종
+    completion:
+      - internal
   - 
     title: '도전과제: 나만의 특수 효과 만들기'
