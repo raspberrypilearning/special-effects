@@ -23,7 +23,11 @@ steps:
     title: Spanning
   - 
     title: Stormachtige nacht
+    completion:
+      - engaged
   - 
     title: Spookachtige bellen
+    completion:
+      - internal
   - 
     title: 'Uitdaging: maak je eigen speciale effecten'
