@@ -23,7 +23,11 @@ steps:
     title: Suspense
   - 
     title: Stormy night
+    completion:
+      - engaged
   - 
     title: Haunted bells
+    completion:
+      - internal
   - 
     title: 'Challenge: Create your own special effects'
