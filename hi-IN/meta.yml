@@ -23,7 +23,11 @@ steps:
     title: रहस्य
   - 
     title: तूफानी रात
+    completion:
+      - engaged
   - 
     title: भूतिया घंटियाँ
+    completion:
+      - internal
   - 
     title: 'चुनौती: अपने खुद के विशेष प्रभाव तैयार करना'
