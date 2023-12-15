@@ -23,7 +23,11 @@ steps:
     title: Suspense
   - 
     title: Noite de tempestade
+    completion:
+      - engaged
   - 
     title: Sinos assombrados
+    completion:
+      - internal
   - 
     title: 'Desafio: Crie seus próprios efeitos especiais'
