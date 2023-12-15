@@ -23,7 +23,11 @@ steps:
     title: Αγωνία
   - 
     title: Νύχτα με καταιγίδα
+    completion:
+      - engaged
   - 
     title: Στοιχειωμένες καμπάνες
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: Δημιούργησε τα δικά σου ειδικά εφέ'
