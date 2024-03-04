@@ -1,32 +1,32 @@
-## Introduction
+## Introduzione
 
-In this project you will use Sonic Pi to create some special effect sounds that can be used in a film or a computer game.
+In questo progetto utilizzerai Sonic Pi per creare effetti speciali che possono essere utilizzati in un film o in un videogame.
 
-If you don't have Sonic Pi installed on your computer, you can download it from [sonic-pi.net](https://sonic-pi.net/).
+Se non hai Sonic Pi installato sul tuo computer, puoi scaricarlo da [sonic-pi.net](https://sonic-pi.net/).
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how your special effects will sound: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Stormy night: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio> #### Haunted bells: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Fai clic sul pulsante play qui in basso per ascoltare come saranno i tuoi effetti speciali: #### Suspense: <audio controls preload> <source src="resources/suspense.mp3" type="audio/mpeg"> Il tuo browser non supporta l'<code>audio</code>. </audio> #### Notte tempestosa: <audio controls preload> <source src="resources/stormy-night.mp3" type="audio/mpeg"> Il tuo browser non supporta l'<code>audio</code>. </audio> #### Campane stregate: <audio controls preload> <source src="resources/haunted-bells.mp3" type="audio/mpeg"> Il tuo browser non supporta l'<code>audio</code>. </audio>
 </div>
 
-### Additional information for club leaders
+### Ulteriori informazioni per gli organizzatori dei club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/special-effects/print).
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/special-effects/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note per i volontari
 
-## Introduction:
+## Introduzione:
 
-In this project, children will learn how to manipulate samples to create spacial effects.
+In questo progetto, i bambini impareranno a manipolare i campioni audio per creare effetti spaziali.
 
-## Resources
+## Risorse
 
-The 'Project Materials' link for this project contains the following resources:
+Il link "Materiali del progetto" di questo progetto contiene le seguenti risorse:
 
-##### Club leader Resources
+##### Risorse per gli organizzatori del club
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Puoi trovare una versione completa di questo progetto cliccando sul link 'Materiali del Progetto' per questo progetto, che contiene:
 
 * suspense.txt
 * suspense.mp3
@@ -35,37 +35,37 @@ You can find a completed version of this project by clicking the 'Project Materi
 * haunted-bells.txt
 * haunted-bells.mp3
 
-## Learning Objectives
+## Obiettivi di apprendimento
 
-* Sonic Pi samples
-* Sample `rate` and `amp`
-* Using random values
+* Campioni audio Sonic Pi
+* Campioni audio `frequenza` e `ampiezza`
+* Usare valori casuali
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combinare i costrutti base di un linguaggio di programmazione per risolvere un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Sfide
 
-* "Create your own special effects" - using samples to create special effects.
+* "Crea i tuoi effetti speciali" - utilizzando campioni audio per creare effetti speciali.
 
-## Frequently Asked Questions
+## Domande frequenti
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* Per trovare campioni audio disponibili in Sonic Pi, gli studenti possono andare qui [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). In alternativa, possono semplicemente digitare `sample [space]` e scegliere dalla lista che appare.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiali del progetto
 
-## Club leader resources
+## Risorse per gli organizzatori del club
 
-* [Downloadable completed Sonic Pi 'Suspense' special effecte](resources/suspense.txt)
-* [Downloadable completed 'Suspense' mp3 file](resources/suspense.mp3)
-* [Downloadable completed Sonic Pi 'Stormy night' special effect](resources/stormy-night.txt)
-* [Downloadable completed 'Stormy night' mp3 file](resources/stormy-night.mp3)
-* [Downloadable completed Sonic Pi 'Haunted bells' special effect](resources/haunted-bells.txt)
-* [Downloadable completed 'Haunted bells' mp3 file](resources/haunted-bells.mp3)
+* [Effetto speciale Sonic Pi 'Suspense' scaricabile completo](resources/suspense.txt)
+* [File audio mp3 'Suspense' completo scaricabile](resources/suspense.mp3)
+* [Effetto speciale Sonic Pi 'Notte tempestosa' scaricabile completo](resources/stormy-night.txt)
+* [File audio mp3 'Notte tempestosa' completo scaricabile](resources/stormy-night.mp3)
+* [Effetto speciale Sonic Pi 'Campane stregate' scaricabile completo](resources/haunted-bells.txt)
+* [File audio mp3 'Campane stregate' completo scaricabile](resources/haunted-bells.mp3)
 
 \--- /collapse \---
