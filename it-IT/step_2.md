@@ -1,23 +1,23 @@
 ## Suspense
 
-Let's start by creating a sound to show that danger is approaching.
+Cominciamo creando un suono per mostrare che il pericolo si sta avvicinando.
 
-+ To create the first special effect you should add the `:ambi_choir` sample to am empty buffer.
++ Per creare il primo effetto speciale devi aggiungere il campione `:ambi_choir ` in un buffer vuoto.
     
     ![screenshot](images/effects-suspense-sample.png)
 
-+ You can change the **rate** at which a sample is played. A `rate` of `1` is the sample's normal speed, and using a `rate` of less than 1 will slow the sample down.
++ Puoi cambiare la **rate (frequenza)** alla quale viene eseguito un campione. Un `rate` di `1` è la velocità normale del campione, utilizzando un `rate` inferiore a 1 il campione rallenterà.
     
     ![screenshot](images/effects-suspense-rate-low.png)
 
-+ Press 'Run' to hear your sample played slowly. How does the sample sound?
++ Premi 'Run' per sentire il tuo campione suonato lentamente. Come suona il campione?
 
-+ A `rate` higher than 1 speeds the sample up.
++ Un `rate` superiore a 1 dà velocità al campione.
     
     ![screenshot](images/effects-suspense-rate-high.png)
 
-+ Test your sample again. How does it sound now?
++ Prova nuovamente il campione. Come suona adesso?
 
-+ You can repeat the sample a few times by putting it in a loop. You'll also need to add a `sleep` after playing the sample.
++ Puoi ripetere il campione alcune volte inserendolo in un ciclo. Dovrai anche aggiungere `sleep` dopo aver riprodotto il campione.
     
     ![screenshot](images/effects-suspense-repeat.png)
