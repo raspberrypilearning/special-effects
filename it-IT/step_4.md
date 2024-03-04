@@ -1,25 +1,25 @@
-## Haunted bells
+## Campane stregate
 
-+ Choose an empty buffer to create the next special effect.
++ Scegliere un buffer vuoto per creare il prossimo effetto speciale.
 
-+ Start by adding the `:perc_bell` sample.
++ Inizia aggiungendo il campione `:perc_bell`.
     
     ![screenshot](images/effects-bells-sample.png)
 
-+ Press 'Run' to play the sample and see how it sounds.
++ Premi 'Run' per provare il tuo campione e sentire come suona.
 
-+ Change the `rate` of the sample to see how it sounds played at different speeds.
++ Cambia il `rate` del campione per vedere come suona a velocità diverse.
     
     ![screenshot](images/effects-bells-rate-high.png)
 
-+ Change the `rate` to `-1`. What does this do to the sample?
++ Imposta il `rate` a `-1`. Che cosa fa questo al campione?
     
     ![screenshot](images/effects-bells-rate-negative.png)
 
-+ You can use `rrand` to play the sample at a random rate.
++ Puoi usare `rrand` per riprodurre il campione a una velocità casuale.
     
     ![screenshot](images/effects-bells-rate-random.png)
 
-+ Add the sample to a loop that repeats **forever**. You can also `sleep` for a random time after the sample is played.
++ Inserisci il campione dentro un loop che si ripete **per sempre**. Puoi anche inserire uno `sleep` di tempo casuale dopo che il campione è stato suonato.
     
     ![screenshot](images/effects-bells-repeat-random.png)
