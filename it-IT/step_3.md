@@ -1,33 +1,33 @@
-## Stormy night
+## Notte tempestosa
 
-+ Choose an empty buffer to create the next special effect.
++ Scegliere un buffer vuoto per creare il prossimo effetto speciale.
 
-+ To begin, add the `:ambi_swoosh` sample.
++ Per iniziare, aggiungi il campione `:ambi_swoosh`.
     
     ![screenshot](images/effects-storm-sample.png)
 
-+ Press 'Run' to test your sample and see how it sounds.
++ Premi 'Run' per testare il tuo campione e sentire come suona.
 
-+ If you slow the sample down, you'll hear that it sounds like a storm.
++ Se rallenti il campione, sentirai che suona come una tempesta.
     
     ![screenshot](images/effects-storm-rate.png)
 
-+ You could also add a `:misc_crow` sample, that is played at the same time.
++ Puoi anche aggiungere un campione `:misc_crow` da riprodorre allo stesso tempo.
     
     ![screenshot](images/effects-storm-crow.png)
 
-+ Put the `:misc_crow` sample in a loop, so it is played 4 times with a 1 beat `sleep` each time it is played.
++ Metti il campione `:misc_crow` in un loop (ciclo), così che venga suonato 4 volte al ritmo di 1 `sleep`.
     
     ![screenshot](images/effects-storm-crow-repeat.png)
 
-+ Instead of sleeping for 1 beat each time, you can use `rrand` to which will give you a random number between the 2 values in brackets.
++ Invece di attendere 1 battito ogni volta, puoi usare `rrand` per ottenere un tempo casuale compreso tra i due valori inseriti in parentesi.
     
     ![screenshot](images/effects-storm-crow-rand.png)
 
-+ The **amplitude** of a sound is the size of the sound wave. Changing the amplitude of a sound wave changes its **volume**.
++ L'**ampiezza (amplitude)** di un suono è l'altezza dell'onda sonora. Cambiare l'ampiezza di un'onda sonora cambia il suo **volume**.
     
-    ![amplitude](images/effects-amplitude.png)
+    ![ampiezza](images/effects-amplitude.png)
     
-    You can use `amp` to make a sample play at a different volume. A number less than 1 will play a sample quieter.
+    Puoi usare `amp` per riprodurre un campione ad un volume diverso. Un valore inferiore a 1 suonerà il campione più silenziosamente.
     
     ![screenshot](images/effects-storm-crow-amp.png)
