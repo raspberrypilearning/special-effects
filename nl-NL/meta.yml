@@ -17,12 +17,17 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-- title: Inleiding
-- title: Spanning
-- title: Stormachtige nacht
-  completion:
-  - engaged
-- title: Spookachtige bellen
-  completion:
-  - internal
-- title: 'Uitdaging: maak je eigen speciale effecten'
+  - 
+    title: Inleiding
+  - 
+    title: Spanning
+  - 
+    title: Stormachtige nacht
+    completion:
+      - engaged
+  - 
+    title: Spookachtige bellen
+    completion:
+      - internal
+  - 
+    title: 'Uitdaging: maak je eigen speciale effecten'

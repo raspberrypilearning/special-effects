@@ -8,24 +8,22 @@ Si tu n'as pas Sonic Pi installé sur ton ordinateur, tu peux le télécharger s
 
 Clique sur le bouton de lecture ci-dessous pour entendre tes effets spéciaux : 
 
-#### Suspense : 
+#### Suspense :
+<audio controls preload>
+  <source src="resources/suspense.mp3" type="audio/mpeg">
+Ton navigateur ne supporte pas l'élément <code>audio</code>.
+</audio>
 
-<audio controls preload> 
-  <source src="resources/suspense.mp3" type="audio/mpeg"> 
-Ton navigateur ne supporte pas l'élément <code>audio</code>. 
-</audio> 
+#### Nuit orageuse :
+<audio controls preload>
+  <source src="resources/stormy-night.mp3" type="audio/mpeg">
+Ton navigateur ne supporte pas l'élément <code>audio</code>.
+</audio>
 
-#### Nuit orageuse : 
-
-<audio controls preload> 
-  <source src="resources/stormy-night.mp3" type="audio/mpeg"> 
-Ton navigateur ne supporte pas l'élément <code>audio</code>. 
-</audio> 
-
-#### Cloches hantées : 
-<audio controls preload> 
-  <source src="resources/haunted-bells.mp3" type="audio/mpeg"> 
-Ton navigateur ne supporte pas l'élément <code>audio</code>. 
+#### Cloches hantées :
+<audio controls preload>
+  <source src="resources/haunted-bells.mp3" type="audio/mpeg">
+Ton navigateur ne supporte pas l'élément <code>audio</code>.
 </audio>
 
 </div>
@@ -34,57 +32,56 @@ Ton navigateur ne supporte pas l'élément <code>audio</code>.
 
 Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/fr-FR/projects/special-effects/print).
 
+
 --- collapse ---
 ---
 title: Notes pour le responsable de club
 ---
 
-## Introduction :
 
+## Introduction :
 Dans ce projet, les enfants apprendront à manipuler des échantillons pour créer des effets spéciaux.
 
 ## Ressources
-
 Le lien « Matériaux du projet » pour ce projet contient les ressources suivantes :
 
 ##### Ressources pour le responsable de club
 
 Vous pouvez trouver une version terminée de ce projet en cliquant sur le lien « Matériaux du projet » pour ce projet, qui contient :
 
-* suspense.txt
-* suspense.mp3
-* stormy-night.txt
-* stormy-night.mp3
-* haunted-bells.txt
-* haunted-bells.mp3
++ suspense.txt
++ suspense.mp3
++ stormy-night.txt
++ stormy-night.mp3
++ haunted-bells.txt
++ haunted-bells.mp3
 
 ## Objectifs d'apprentissage
-
-* Echantillons Sonic Pi
-* Taux `d'échantillonnage` et `amplitude`
-* Utiliser des valeurs aléatoires
++ Echantillons Sonic Pi
++ Taux `d'échantillonnage` et `amplitude`
++ Utiliser des valeurs aléatoires
 
 Ce projet traite des éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum) :
 
-* [Combine des constructions de programmation pour résoudre un problème.](https://www.raspberrypi.org/curriculum/programming/builder)
++ [Combine des constructions de programmation pour résoudre un problème.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Défis
-
-* « Créer tes propres effets spéciaux » - utiliser des échantillons pour créer des effets spéciaux.
+## Challenges
++ « Créer tes propres effets spéciaux » - utiliser des échantillons pour créer des effets spéciaux.
 
 ## Foire aux questions
++ Pour trouver des échantillons disponibles dans Sonic Pi, les apprenants peuvent aller sur [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Sinon, ils peuvent simplement taper `sample [space]` et choisir dans la liste qui apparaît.
 
-* Pour trouver des échantillons disponibles dans Sonic Pi, les apprenants peuvent aller sur [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Sinon, ils peuvent simplement taper `sample [space]` et choisir dans la liste qui apparaît.
 
 --- /collapse ---
+
 
 --- collapse ---
 ---
 title: Matériaux du projet
 ---
 
-## Ressources pour le responsable de club
 
+## Ressources pour le responsable de club
 * [Effets spéciaux Sonic Pi « Suspense » terminé et téléchargeable](resources/suspense.txt)
 * [Fichier mp3 « Suspense » terminé et téléchargeable](resources/suspense.mp3)
 * [Effets spéciaux Sonic Pi « Nuit orageuse » terminé et téléchargeable](resources/stormy-night.txt)
